@@ -1,0 +1,2132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0003-2409</Issn>
+      <Eissn>1365-2044</Eissn>
+      <Title>Anaesthesia</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomised,">Best evidence</Characteristic>
+      <Characteristic source="systematic; review">Best evidence</Characteristic>
+      <Characteristic source="meta-analysis">Best evidence</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="plasma">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="disease" source="bleeding">Bleeding</Keyword>
+      <Keyword type="disease" source="Coagulopathy">Coagulopathy</Keyword>
+      <Keyword type="drug" source="plasma">Plasma</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Thromboelastography (TEG) or rotational thromboelastometry (ROTEM) to monitor haemostatic treatment in bleeding patients: a systematic review with meta-analysis and trial sequential analysis.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Wikkelso A</Author>
+        <Author>Wetterslev J</Author>
+        <Author>Moller AM</Author>
+        <Author>Afshari A</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Anaesthesia and Intensive Care Medicine, Hvidovre Hospital, Copenhagen University Hospital, Hvidovre, Denmark</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1111/anae.13765</Doi>
+      <PublicationTypes>
+        <PublicationType>Review</PublicationType>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Coagulopathy and severe bleeding are associated with high mortality. We evaluated haemostatic treatment guided by the functional viscoelastic haemostatic assays, thromboelastography or rotational thromboelastometry in bleeding patients. We searched for randomised, controlled trials irrespective of publication status, publication date, blinding status, outcomes published or language from date of inception to 5 January 2016 in six bibliographic databases. We included 17 trials (1493 participants), most involving cardiac surgery. Thromboelastography or rotational thromboelastometry seemed to reduce overall mortality compared to any of our comparisons (3.9% vs. 7.4%, RR (95% CI) 0.52 (0.28-0.95); I2 = 0%, 8 trials, 717 participants). However, the quality of evidence is graded as low due to the high risk of bias, heterogeneity, imprecision and low event rate. Thromboelastography or rotational thromboelastometry significantly reduced the proportion of patients transfused with red blood cells (RR (95% CI) 0.86 (0.79-0.94); I2 = 0%, 10 trials, 832 participants), fresh frozen plasma (RR (95% CI) 0.57 (0.33-0.96); I2 = 86%, 10 trials, 832 participants) and platelets (RR (95% CI) 0.73 (0.60-0.88); I2 = 0%, 10 studies, 832 participants). There was no difference in proportion needing surgical re-interventions (RR (95% CI) 0.75 (0.50-1.10); I2 = 0%, 9 trials, 887 participants). Trial sequential analysis of mortality suggests that only 54% of the required information size has been reached so far. Transfusion strategies guided by thromboelastography or rotational thromboelastometry may reduce the need for blood products in patients with bleeding, but the results are mainly based on trials of elective cardiac surgery involving cardiopulmonary bypass, with low-quality evidence.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="disease" source="thrombus">Thrombus</Keyword>
+      <Keyword type="drug" source="factor XII">Factor-XII</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Polyphosphate nanoparticles on the platelet surface trigger contact system activation.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Verhoef JJ</Author>
+        <Author>Barendrecht AD</Author>
+        <Author>Nickel KF</Author>
+        <Author>Dijkxhoorn K</Author>
+        <Author>Kenne E</Author>
+        <Author>Labberton L</Author>
+        <Author>McCarty OJ</Author>
+        <Author>Schiffelers R</Author>
+        <Author>Heijnen HF</Author>
+        <Author>Hendrickx AP</Author>
+        <Author>Schellekens H</Author>
+        <Author>Fens MH</Author>
+        <Author>de Maat S</Author>
+        <Author>Renne T</Author>
+        <Author>Maas C</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Pharmaceutics, Utrecht Institute for Pharmaceutical Sciences (UIPS), Utrecht University, Utrecht, Netherlands</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-08-734988</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Polyphosphate is an inorganic polymer that can potentiate several interactions in the blood coagulation system. Blood platelets contain polyphosphate, and the secretion of platelet-derived polyphosphate has been associated with increased thrombus formation and activation of coagulation factor XII. However, the small polymer size of secreted platelet polyphosphate limits its capacity to activate factor XII in vitro. Thus, the mechanism by which platelet polyphosphate contributes to thrombus formation remains unclear. Using live-cell imaging, confocal- and electron microscopy, we show that activated platelets expose polyphosphate on their cell surface. The apparent polymer size of membrane-associated polyphosphate largely exceeds that of secreted polyphosphate. Ultracentrifugation fractionation experiments revealed that membrane-associated platelet polyphosphate is condensed into insoluble spherical nanoparticles with divalent metal ions. In contrast to soluble polyphosphate, membrane-associated polyphosphate nanoparticles potently activate factor XII. Our findings identify the presence of membrane-associated polyphosphate in a nanoparticle state on the surface of activated platelets. We propose that these polyphosphate nanoparticles mechanistically link the procoagulant activity of platelets with the activation of coagulation factor XII.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomized">Best evidence</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="adults">Human</Characteristic>
+      <Characteristic source="amsacrine">RDI</Characteristic>
+      <Characteristic source="Clofarabine">RDI</Characteristic>
+      <Characteristic source="cytarabine">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="MDS">MDS</Keyword>
+      <Keyword type="ctita" source="Leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="AML">CAN</Keyword>
+      <Keyword type="ctita" source="MDS">CAN</Keyword>
+      <Keyword type="ctita" source="transplantation.; patients">TRS</Keyword>
+      <Keyword type="disease" source="acute myeloid leukemia">Acute-myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="AML">AML</Keyword>
+      <Keyword type="disease" source="death">Death</Keyword>
+      <Keyword type="disease" source="Leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="myeloid leukemia">Myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="relapse">Relapse</Keyword>
+      <Keyword type="drug" source="amsacrine">Amsacrine</Keyword>
+      <Keyword type="drug" source="Clofarabine">Clofarabine</Keyword>
+      <Keyword type="drug" source="cytarabine">Cytarabine</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+      <Keyword type="drug" source="SE">SE</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Therapeutic value of clofarabine in younger and middle aged (18 - 65 yrs) adults with newly diagnosed AML.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Lowenberg B</Author>
+        <Author>Pabst T</Author>
+        <Author>Maertens J</Author>
+        <Author>van Norden Y</Author>
+        <Author>Biemond BJ</Author>
+        <Author>Schouten HC</Author>
+        <Author>Spertini O</Author>
+        <Author>Vellenga E</Author>
+        <Author>Graux C</Author>
+        <Author>Havelange V</Author>
+        <Author>de Greef GE</Author>
+        <Author>de Weerdt O</Author>
+        <Author>Legdeur MJ</Author>
+        <Author>Kuball J</Author>
+        <Author>van Marwijk Kooy M</Author>
+        <Author>Gjertsen BT</Author>
+        <Author>Jongen-Lavrencic M</Author>
+        <Author>van de Loosdrecht AA</Author>
+        <Author>van Lammeren-Venema D</Author>
+        <Author>Hodossy B</Author>
+        <Author>Breems DA</Author>
+        <Author>Chalandon Y</Author>
+        <Author>Passweg J</Author>
+        <Author>Valk PJ</Author>
+        <Author>Manz MG</Author>
+        <Author>Ossenkoppele GJ</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Erasmus University Medical Center, Rotterdam, Netherlands;</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-10-740613</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Clofarabine has demonstrated antileukemic activity in acute myeloid leukemia (AML) but has yet to be critically evaluated in younger adults in the frontline with standard chemotherapy. We compared two induction regimens in newly diagnosed patients aged 18-65 with AML/high risk MDS, i.e., idarubicine-cytarabine (cycle I) and amsacrine-cytarabine (cycle II) without or with clofarabine (10 mg/m2 on days 1-5 of each of both cycles). Consolidation involved chemotherapy with or without hematopoietic stem cell transplantation. Event free survival (EFS, primary endpoint) and other clinical endpoints and toxicities were assessed. 402 and 393 evaluable patients were randomized to the control or clofarabine induction treatment arms. Complete remission rates (89%) did not differ but were attained faster with clofarabine (66% versus 75% after cycle I). Clofarabine added grade III-IV toxicities, and delayed hematological recovery. At a median follow up of 36 months, the study reveals no differences in overall survival and EFS between the control (EFS 35% +/-3 (SE) at 4 years) and clofarabine treatments (38% +/-3) but a markedly reduced relapse rate (44% +/- 3 versus 35% +/- 3) in favor of clofarabine and an increased death probability in remission (15% +/-2 versus 22% +/-3). In the subgroup analyses, clofarabine improved OS and EFS for European-Leukemia-Net ELN 2010 Intermediate-I prognostic risk AML (EFS 26 % +/-4 versus 40% +/-5 at 4 years, Cox-P=0.002) and for the intermediate risk genotype NPM1wild type/FLT3 without internal-tandem-duplications (EFS 18% +/-5 versus 40% +/-7, Cox- P&lt;0.001). Clofarabine improves survival in subsets of intermediate-risk AML only.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="CD8">RDI</Characteristic>
+      <Characteristic source="dasatinib">RDI</Characteristic>
+      <Characteristic source="imatinib">RDI</Characteristic>
+      <Characteristic source="MMR">RDI</Characteristic>
+      <Characteristic source="MR4">RDI</Characteristic>
+      <Characteristic source="nilotinib">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="immune control">Immune Control</Keyword>
+      <Keyword type="company" source="normal">Normal</Keyword>
+      <Keyword type="ctita" source="leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="CML">CAN</Keyword>
+      <Keyword type="ctita" source="immune; Immunological; immune-inhibitory; Immune; response">VAX</Keyword>
+      <Keyword type="ctita" source="PD">PAR</Keyword>
+      <Keyword type="disease" source="chronic myeloid leukemia">Chronic-myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="CML">CML</Keyword>
+      <Keyword type="disease" source="cytotoxic">Cytotoxic</Keyword>
+      <Keyword type="disease" source="death">Death</Keyword>
+      <Keyword type="disease" source="leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="myeloid leukemia">Myeloid-leukemia</Keyword>
+      <Keyword type="drug" source="CD4">CD4</Keyword>
+      <Keyword type="drug" source="CD8">CD8</Keyword>
+      <Keyword type="drug" source="dasatinib">Dasatinib</Keyword>
+      <Keyword type="drug" source="imatinib">Imatinib</Keyword>
+      <Keyword type="drug" source="MMR">MMR</Keyword>
+      <Keyword type="drug" source="MR4">MR4</Keyword>
+      <Keyword type="drug" source="nilotinib">Nilotinib</Keyword>
+      <Keyword type="drug" source="tyrosine">Tyrosine</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>CML patients with deep molecular responses to TKI have restored immune effectors, decreased PD-1 and immune suppressors.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Hughes A</Author>
+        <Author>Clarson J</Author>
+        <Author>Tang C</Author>
+        <Author>Vidovic L</Author>
+        <Author>White DL</Author>
+        <Author>Hughes TP</Author>
+        <Author>Yong AS</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Haematology, SA Pathology, Adelaide, SA, Australia;</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-10-745992</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Immunological control may contribute to achievement of deep molecular response in chronic myeloid leukemia (CML) patients on tyrosine kinase inhibitor (TKI) therapy and may promote treatment free remission (TFR). We investigated effector and suppressor immune responses in CML patients at diagnosis (n=21), on TKI (imatinib, nilotinib, dasatinib) prior to achieving major molecular response (pre-MMR, BCR-ABL1 &gt;0.1%, n=8), MMR (BCR-ABL1 &lt;/=0.1%, n=20), molecular response4.5 (MR4.5, BCR-ABL1 &lt;/=0.0032%, n=16) and sustained TFR (BCR-ABL1 undetectable following cessation of TKI therapy, n=13). Aberrant immune-inhibitory responses (myeloid derived suppressor cells (MDSC), regulatory T cells (Treg) and programmed death-1 (PD-1) inhibitory molecule expression on CD4+/CD8+ T cells were increased in CML patients at diagnosis. Consequent quantitative and functional defects of innate effector natural killer (NK) cells and cytotoxic T lymphocyte responses to leukemia-associated antigens WT1, BMI-1, PR3 and PRAME were observed at diagnosis. Treg and PD-1+CD4+/CD8+ T cells persisted in pre-MMR CML patients on TKI. Patients in MMR and MR4.5 had a more mature, cytolytic CD57+CD62L- natural killer (NK) cell phenotype, consistent with restoration of NK cell activating and inhibitory receptor repertoire to normal healthy donor levels. Immune responses were retained in TFR patients off-therapy, suggesting the restored immune control observed in MMR and MR4.5 is not an entirely TKI-mediated effect. Maximal restoration of immune responses occurred only in MR4.5, as demonstrated by increased NK cell and effector T cell cytolytic function, reduced T cell PD-1 expression and reduced numbers of Monocytic-MDSC.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; a; P">Case Report</Characteristic>
+      <Characteristic source="patient; 1; 2; 4; 5; 6; 7; 8; 9; 10; 11; 15; 17; 19; 34; 38">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="ibrutinib">RDI</Characteristic>
+      <Characteristic source="We report; patients; patients,; patient">Case Report</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="CLL">CAN</Keyword>
+      <Keyword type="disease" source="chronic lymphocytic leukemia">Chronic-lymphocytic-leukemia</Keyword>
+      <Keyword type="disease" source="CLL">CLL</Keyword>
+      <Keyword type="disease" source="leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="lymphocytic leukemia">Lymphocytic-leukemia</Keyword>
+      <Keyword type="drug" source="beta-2 microglobulin">Beta-2-microglobulin</Keyword>
+      <Keyword type="drug" source="ibrutinib">Ibrutinib</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Clonal evolution leading to ibrutinib resistance in chronic lymphocytic leukemia.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Ahn IE</Author>
+        <Author>Underbayev C</Author>
+        <Author>Albitar A</Author>
+        <Author>Herman SE</Author>
+        <Author>Tian X</Author>
+        <Author>Maric I</Author>
+        <Author>Arthur DC</Author>
+        <Author>Wake L</Author>
+        <Author>Pittaluga S</Author>
+        <Author>Yuan CM</Author>
+        <Author>Stetler-Stevenson M</Author>
+        <Author>Soto S</Author>
+        <Author>Valdez J</Author>
+        <Author>Nierman P</Author>
+        <Author>Lotter J</Author>
+        <Author>Xi L</Author>
+        <Author>Raffeld M</Author>
+        <Author>Farooqui M</Author>
+        <Author>Albitar M</Author>
+        <Author>Wiestner A</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Medical Oncology Service, National Cancer Institute, Bethesda, MD, United States</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-06-719294</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Disease progression in patients with chronic lymphocytic leukemia (CLL) treated with ibrutinib has been attributed to histologic transformation or acquired mutations in BTK and PLCG2 The rate of resistance and clonal composition of progressive disease are incompletely characterized. We report on CLL patients treated with single-agent ibrutinib on an investigator-initiated phase 2 trial. With median follow-up of 34 months, fifteen (17.9%) of 84 evaluable patients progressed. Relapsed/refractory disease at study entry, TP53 aberration, advanced Rai stage, and high beta-2 microglobulin were independently associated with inferior progression-free survival (P&lt;.05 for all tests). Histologic transformation occurred in 5 (6.0%) patients and was limited to the first 15 months on ibrutinib. In contrast, progression due to CLL in 10 (11.9%) patients occurred later, diagnosed at a median 38 months on study. At progression, mutations in BTK (Cys481) and/or PLCG2 (within the auto-inhibitory domain) were found in 9 (10.7%) patients, in 8 of 10 patients with progressive CLL and in one patient with prolymphocytic transformation. Applying high sensitivity testing (detection limit approximately 1 in 1,000 cells) to stored samples, we detected mutations up to 15 months before manifestation of clinical progression (range 2.9-15.4 months). In 5 (6.0%) patients multiple subclones carrying different mutations arose independently leading to subclonal heterogeneity of resistant disease. For a seamless transition to alternative targeted agents, patients progressing with CLL were continued on ibrutinib for up to three months, with 19.8 months median survival from the time of progression. This trial was registered at www.clinicaltrials.gov as NCT01500733.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; a">Case Report</Characteristic>
+      <Characteristic source="patient; 4">Case Report</Characteristic>
+      <Characteristic source="a; adult">Case Report</Characteristic>
+      <Characteristic source="an; adult">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="lipase">RDI</Characteristic>
+      <Characteristic source="we report; patients; patient-derived">Case Report</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="alter">Alter</Keyword>
+      <Keyword type="ctita" source="cancer">CAN</Keyword>
+      <Keyword type="ctita" source="malignant">CAN</Keyword>
+      <Keyword type="ctita" source="tumoral; Tumor-host; tumor; tumor-directed">CAN</Keyword>
+      <Keyword type="ctita" source="leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="AML">CAN</Keyword>
+      <Keyword type="ctita" source="prostate; cancer">MEN</Keyword>
+      <Keyword type="ctita" source="breast; cancer">WOM</Keyword>
+      <Keyword type="disease" source="acute myeloid leukemia">Acute-myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="AML">AML</Keyword>
+      <Keyword type="disease" source="cancer">Cancer</Keyword>
+      <Keyword type="disease" source="leukaemia">Leukaemia</Keyword>
+      <Keyword type="disease" source="leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="myeloid leukemia">Myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="prostate cancer">Prostate-cancer</Keyword>
+      <Keyword type="drug" source="carnitine">Carnitine</Keyword>
+      <Keyword type="drug" source="lipase">Lipase</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Leukemic blasts program bone marrow adipocytes to generate a pro-tumoral microenvironment.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Shafat MS</Author>
+        <Author>Oellerich T</Author>
+        <Author>Mohr S</Author>
+        <Author>Robinson SD</Author>
+        <Author>Edwards DR</Author>
+        <Author>Marlein CR</Author>
+        <Author>Piddock RE</Author>
+        <Author>Fenech M</Author>
+        <Author>Zaitseva L</Author>
+        <Author>Abdul-Aziz A</Author>
+        <Author>Turner J</Author>
+        <Author>Watkins JA</Author>
+        <Author>Lawes M</Author>
+        <Author>Bowles KM</Author>
+        <Author>Rushworth SA</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Molecular Haematology, Norwich Medical School, The University of East Anglia, Norwich, United Kingdom</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-08-734798</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Despite currently available therapies most patients diagnosed with acute myeloid leukemia (AML) die of their disease. Tumor-host interactions are critical for the survival and proliferation of cancer cells; accordingly, we hypothesise that specific targeting of the tumor microenvironment may constitute an alternative or additional strategy to conventional tumor-directed chemotherapy. Since adipocytes have been shown to promote breast and prostate cancer proliferation, and because the bone marrow adipose tissue (MAT) accounts for up to 70% of bone marrow volume in adult humans, we examined the adipocyte-leukaemia cell interactions to determine if they are essential for the growth and survival of AML. Using in-vivo and in-vitro models of AML we show that bone marrow adipocytes from the tumor microenvironment support the survival and proliferation of malignant cells from patients with AML. We show that AML blasts alter metabolic processes in adipocytes to induce phosphorylation of hormone-sensitive lipase and consequently activate lipolysis, which then enables the transfer of fatty acids from adipocytes to AML blasts. In addition, we report that fatty acid binding protein-4 (FABP4) mRNA is up-regulated in adipocytes and AML when in co-culture. FABP4 inhibition using FABP4 shRNA knockdown or a small molecule inhibitor prevents AML proliferation on adipocytes. Moreover, knockdown of FABP4 increases survival in Hoxa9/Meis1-driven AML model. Finally, knockdown of carnitine palmitoyltransferase IA (CPT1A) in an AML patient-derived xenograft model improves survival. Here we report the first description of AML programming bone marrow adipocytes to generate a pro-tumoral microenvironment.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0006-4971</Issn>
+      <Eissn>1528-0020</Eissn>
+      <Title>Blood</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="busulfan">RDI</Characteristic>
+      <Characteristic source="fludarabine">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="GVHD">TRS</Keyword>
+      <Keyword type="ctita" source="transplantation; immunosuppressive; immunosuppression.; immunosuppression; immunosuppression,">TRS</Keyword>
+      <Keyword type="ctita" source="transplantation; patients">TRS</Keyword>
+      <Keyword type="ctita" source="Post; infections,">WOM</Keyword>
+      <Keyword type="disease" source="graft-versus-host disease">Graft-versus-host-disease</Keyword>
+      <Keyword type="disease" source="immunosuppression">Immunosuppression</Keyword>
+      <Keyword type="disease" source="infections">Infections</Keyword>
+      <Keyword type="disease" source="relapse">Relapse</Keyword>
+      <Keyword type="drug" source="busulfan">Busulfan</Keyword>
+      <Keyword type="drug" source="cyclophosphamide">Cyclophosphamide</Keyword>
+      <Keyword type="drug" source="fludarabine">Fludarabine</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Low immunosuppressive burden after HLA-matched related or unrelated BMT using post-transplantation cyclophosphamide.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Kanakry CG</Author>
+        <Author>Bolanos-Meade J</Author>
+        <Author>Kasamon YL</Author>
+        <Author>Zahurak M</Author>
+        <Author>Durakovic N</Author>
+        <Author>Furlong T</Author>
+        <Author>Mielcarek M</Author>
+        <Author>Medeot M</Author>
+        <Author>Gojo I</Author>
+        <Author>Smith BD</Author>
+        <Author>Kanakry JA</Author>
+        <Author>Borrello IM</Author>
+        <Author>Brodsky RA</Author>
+        <Author>Gladstone DE</Author>
+        <Author>Huff CA</Author>
+        <Author>Matsui WH</Author>
+        <Author>Swinnen LJ</Author>
+        <Author>Cooke KR</Author>
+        <Author>Ambinder RF</Author>
+        <Author>Fuchs EJ</Author>
+        <Author>de Lima MJ</Author>
+        <Author>Andersson BS</Author>
+        <Author>Varadhan R</Author>
+        <Author>O'Donnell PV</Author>
+        <Author>Jones RJ</Author>
+        <Author>Luznik L</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Sidney Kimmel Comprehensive Cancer Center, The Johns Hopkins University School of Medicine, Baltimore, MD, United States</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1182/blood-2016-09-737825</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>The intensive and prolonged immunosuppressive therapy required to prevent or treat graft-versus-host disease (GVHD) after allogeneic blood or marrow transplantation (alloBMT) puts patients at substantial risk for life-threatening infections, organ toxicity, and disease relapse. Post-transplantation cyclophosphamide (PTCy) can function as single-agent GVHD prophylaxis after myeloablative, HLA-matched-related (MRD) or HLA-matched-unrelated (MUD) T-cell-replete bone marrow allografting, obviating the need for additional prophylactic immunosuppression. However, patients who develop GVHD require supplemental treatment. We assessed the longitudinal requirement for immunosuppressive therapy in 339 patients treated with this transplantation platform: 247 receiving busulfan/cyclophosphamide (BuCy) conditioning (data collected retrospectively) and 92 receiving busulfan/fludarabine (BuFlu) conditioning (data collected prospectively). Approximately 50% of MRD patients and 30% of MUD patients never required immunosuppression beyond PTCy. In patients requiring further immunosuppression, typically 1-2 agents only were required, and the median durations of systemic pharmacologic immunosuppression for the BuCy MRD, BuFlu MRD, BuCy MUD, and BuFlu MUD groups all were 4.5-5 months. For these four groups, the 1-year probabilities of being alive and off all systemic immunosuppression were 61%, 53%, 53%, and 51% and the 3-year probabilities were 53%, 48%, 49%, and 56%, respectively. These data suggest that PTCy minimizes the global immunosuppressive burden experienced by patients undergoing HLA-matched alloBMT.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0090-9556</Issn>
+      <Eissn>1521-009X</Eissn>
+      <Title>Drug metabolism and disposition: the biological fate of chemicals</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="midazolam">RDI</Characteristic>
+      <Characteristic source="plasma">RDI</Characteristic>
+      <Characteristic source="zidovudine">RDI</Characteristic>
+      <Characteristic source="novel">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="cord">Cord</Keyword>
+      <Keyword type="disease" source="pregnancy">Pregnancy</Keyword>
+      <Keyword type="drug" source="midazolam">Midazolam</Keyword>
+      <Keyword type="drug" source="plasma">Plasma</Keyword>
+      <Keyword type="drug" source="theophylline">Theophylline</Keyword>
+      <Keyword type="drug" source="zidovudine">Zidovudine</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Verification of a Maternal-Fetal Physiologically Based Pharmacokinetic Model for Passive Placental Permeability Drugs.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Zhang Z</Author>
+        <Author>Unadkat JD</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>University of Washington</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1124/dmd.116.073957</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Fetal exposure to drugs cannot be readily estimated from single time point cord blood sampling at the time of delivery. Therefore, we developed a physiologically-based pharmacokinetic (PBPK) model to estimate fetal drug exposure throughout pregnancy. Here we report verification of this novel maternal-fetal physiologically-based pharmacokinetic (m-f-PBPK) model for drugs that passively diffuse across the placenta and are not metabolized/transported there. Our recently built m-f-PBPK model was populated with gestational age-dependent changes in maternal drug disposition and maternal-fetal physiology. Using midazolam as an in vivo calibrator, the transplacental passive diffusion clearance of theophylline and zidovudine was first estimated. Then, for verification, the predicted maternal plasma (MP) and umbilical venous (UV) plasma drug concentrations by our m-f-PBPK were compared against those observed at term. Overall, our m-f-PBPK model well predicted the maternal and fetal exposure to the two verification drugs, theophylline and zidovudine, at term, across a range of dosing regimens, with nearly all observed MP and UV plasma drug concentrations falling within the 90% prediction interval [i.e.5th -95th percentile range of a virtual pregnant population (n=100)]. Prediction precision and bias of theophylline MP and UV were 14.5% and 12.4%, and 9.4% and 7.5%, respectively. Further, for zidovudine, after the exclusion of one unexpectedly low MP concentration, prediction precision and bias for MP and UV were 50.3 % and 30.2, and 28.3% and 15.0%, respectively. This m-f-PBPK should be useful to predict fetal exposure to drugs, throughout pregnancy, for drugs that passively diffuse across the placenta.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0091-2700</Issn>
+      <Eissn>1552-4604</Eissn>
+      <Title>Journal of clinical pharmacology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="subjects">Human</Characteristic>
+      <Characteristic source="ketoconazole">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="clinical data">Clinical Data</Keyword>
+      <Keyword type="ctita" source="leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="CLL">CAN</Keyword>
+      <Keyword type="disease" source="chronic lymphocytic leukemia">Chronic-lymphocytic-leukemia</Keyword>
+      <Keyword type="disease" source="CLL">CLL</Keyword>
+      <Keyword type="disease" source="leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="lymphocytic leukemia">Lymphocytic-leukemia</Keyword>
+      <Keyword type="drug" source="ketoconazole">Ketoconazole</Keyword>
+      <Keyword type="drug" source="rifampin">Rifampin</Keyword>
+      <Keyword type="drug" source="venetoclax">Venetoclax</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Quantitative Prediction of the Effect of CYP3A Inhibitors and Inducers on Venetoclax Pharmacokinetics Using a Physiologically Based Pharmacokinetic Model.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Freise KJ</Author>
+        <Author>Shebley M</Author>
+        <Author>Salem AH</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>AbbVie, Inc, North Chicago, IL, USA</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/jcph.858</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>The objectives of the analysis were to develop and verify a venetoclax physiologically based pharmacokinetic (PBPK) model to predict the effects of cytochrome P450 3A (CYP3A) inhibitors and inducers on the PK of venetoclax and inform dosing recommendations. A minimal PBPK model was developed based on prior in vitro and in vivo clinical data using a "middle-out" approach. The PBPK model was independently verified against clinical studies of the strong CYP3A inhibitor ketoconazole, the strong CYP3A inducer, multiple-dose rifampin, and the steady-state venetoclax PK in chronic lymphocytic leukemia (CLL) subjects by comparing predicted to observed ratios of the venetoclax maximum concentration (Cmax R) and area under the curve from time 0 to infinity (AUCinfinity R) from these studies. The verified PBPK model was then used to simulate the effects of different CYP3A inhibitors and inducers on the venetoclax PK. Comparison of the PBPK model predicted to the observed PK parameters indicated good agreement. Verification of the PBPK model demonstrated that the ratios of the predicted:observed Cmax R and AUCinfinity R of venetoclax were within 0.8- to 1.25-fold range for strong CYP3A inhibitors and inducers. Model simulations indicated no effect of weak CYP3A inhibitors or inducers on Cmax or AUCinfinity , while both moderate and strong CYP3A inducers were estimated to decrease venetoclax exposure. Moderate and strong CYP3A inhibitors were estimated to increase venetoclax AUCinfinity , by 100% to 390% and 480% to 680%, respectively. The recommended venetoclax dose reductions of at least 50% and 75% when coadministered with moderate and strong CYP3A inhibitors, respectively, maintain venetoclax exposures between therapeutic and maximally administered safe doses.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0105-4538</Issn>
+      <Eissn>1398-9995</Eissn>
+      <Title>Allergy</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="Ivermectin">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="AD">ALZ</Keyword>
+      <Keyword type="disease" source="atopic dermatitis">Atopic-dermatitis</Keyword>
+      <Keyword type="disease" source="dermatitis">Dermatitis</Keyword>
+      <Keyword type="disease" source="infections">Infections</Keyword>
+      <Keyword type="disease" source="inflammation">Inflammation</Keyword>
+      <Keyword type="disease" source="parasitic infections">Parasitic-infections</Keyword>
+      <Keyword type="drug" source="dendritic cells">Dendritic-cells</Keyword>
+      <Keyword type="drug" source="Ivermectin">Ivermectin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Topical ivermectin improves allergic skin inflammation.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Ventre E</Author>
+        <Author>Rozieres A</Author>
+        <Author>Lenief V</Author>
+        <Author>Albert F</Author>
+        <Author>Rossio P</Author>
+        <Author>Laoubi L</Author>
+        <Author>Dombrowicz D</Author>
+        <Author>Staels B</Author>
+        <Author>Ulmann L</Author>
+        <Author>Julia V</Author>
+        <Author>Vial E</Author>
+        <Author>Jomard A</Author>
+        <Author>Hacini-Rachinel F</Author>
+        <Author>Nicolas JF</Author>
+        <Author>Vocanson M</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>CIRI, International Center for Infectiology Research, Universite de Lyon, Lyon, France</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1111/all.13118</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Ivermectin (IVM) is widely used in both human and veterinary medicine to treat parasitic infections. Recent reports have suggested that IVM could also have anti-inflammatory properties. METHODS: Here, we investigated the activity of IVM in a murine model of atopic dermatitis (AD) induced by repeated exposure to the allergen Dermatophagoides farinae, and in standard cellular immunology assays. RESULTS: Our results show that topical IVM improved allergic skin inflammation by reducing the priming and activation of allergen-specific T cells, as well as the production of inflammatory cytokines. While IVM had no major impact on the functions of dendritic cells in vivo and in vitro, IVM directly impaired T cell activation, proliferation and cytokine production following polyclonal and antigen-specific stimulation. CONCLUSION: Altogether, our results show that IVM is endowed with topical anti-inflammatory properties that could have important applications for the treatment of T-cell mediated skin inflammatory diseases. This article is protected by copyright. All rights reserved.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0163-2116</Issn>
+      <Eissn>1573-2568</Eissn>
+      <Title>Digestive diseases and sciences</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="company" source="Delta">Delta</Keyword>
+      <Keyword type="ctita" source="Tumorigenesis; tumorigenesis; tumor; tumorigenesis.; tumors">CAN</Keyword>
+      <Keyword type="disease" source="tumorigenesis">Tumorigenesis</Keyword>
+      <Keyword type="drug" source="dextran">Dextran</Keyword>
+      <Keyword type="drug" source="dextran sodium sulfate">Dextran-sodium-sulfate</Keyword>
+      <Keyword type="drug" source="Lysophosphatidic Acid; lysophosphatidic acid">Lysophosphatidic-acid</Keyword>
+      <Keyword type="drug" source="sodium">Sodium</Keyword>
+      <Keyword type="drug" source="sodium sulfate">Sodium-sulfate</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Daily Intake of High-Fat Diet with Lysophosphatidic Acid-Rich Soybean Phospholipids Augments Colon Tumorigenesis in Kyoto Apc Delta Rats.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Tsutsumi T</Author>
+        <Author>Inoue M</Author>
+        <Author>Okamoto Y</Author>
+        <Author>Ishihara A</Author>
+        <Author>Tokumura A</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Pharmaceutical Sciences, Kyushu University of Health and Welfare, 1714-1 Yoshinomachi, Nobeoka, Japan</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10620-016-4434-5</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Oral administration of lysophosphatidic acid (LPA) was shown to attenuate gastric ulceration in rats and mice but aggravate intestinal tumorigenesis in mice. AIMS: The present study examined whether dietary LPA induces or prevents development of colorectal tumor in rats. METHODS: Kyoto Apc Delta rats fed high-fat diet with or without an LPA-rich soybean phospholipid mixture (LSP, 0.1 or 1%) were treated with azoxymethane and dextran sodium sulfate to induce colorectal tumorigenesis. Rats were killed 15 weeks after azoxymethane treatment, and size, total number, location, and severity of colorectal tumors were assessed. Expression of mRNA of LPA receptors in rat colon tissue was assayed. RESULTS: Rats fed the diet supplemented with 1% LSP had a higher number of tumors 2-4 mm long compared than those with or without 0.1% LSP. The mean distance of tumors &gt;4 mm long from the anus was significantly higher than those of tumors &lt;2 and 2-4 mm long in rats fed 1% LSP-supplemented diet. Supplementation of the diet with 0.1% LSP decreased mRNA expression of LPA5 in colon tumors of rats. CONCLUSIONS: Dietary supplementation of LPA-rich phospholipids dose-dependently augmented colorectal tumorigenesis. Decreased expression of LPA5 in colon tumors may be relevant to augmented tumorigenesis.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0163-2116</Issn>
+      <Eissn>1573-2568</Eissn>
+      <Title>Digestive diseases and sciences</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="cases of; associated with">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="men">Human</Characteristic>
+      <Characteristic source="Individuals">Human</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="algorithm">Algorithm</Keyword>
+      <Keyword type="company" source="ratio">Ratio</Keyword>
+      <Keyword type="ctita" source="cancer">CAN</Keyword>
+      <Keyword type="ctita" source="CRC">CAN</Keyword>
+      <Keyword type="disease" source="cancer">Cancer</Keyword>
+      <Keyword type="disease" source="cholangitis">Cholangitis</Keyword>
+      <Keyword type="disease" source="colitis">Colitis</Keyword>
+      <Keyword type="disease" source="Colorectal Cancer">Colorectal-cancer</Keyword>
+      <Keyword type="disease" source="Crohn's disease">Crohn's-disease</Keyword>
+      <Keyword type="disease" source="death">Death</Keyword>
+      <Keyword type="disease" source="IBD">IBD</Keyword>
+      <Keyword type="disease" source="Inflammatory Bowel Diseases">Inflammatory-bowel-diseases</Keyword>
+      <Keyword type="disease" source="primary sclerosing cholangitis">Primary-sclerosing-cholangitis</Keyword>
+      <Keyword type="disease" source="sclerosing cholangitis">Sclerosing-cholangitis</Keyword>
+      <Keyword type="disease" source="ulcerative colitis">Ulcerative-colitis</Keyword>
+      <Keyword type="drug" source="CI 1">CI-1</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Colorectal Cancer in Inflammatory Bowel Diseases: A Population-Based Study in Utah.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Jewel Samadder N</Author>
+        <Author>Valentine JF</Author>
+        <Author>Guthery S</Author>
+        <Author>Singh H</Author>
+        <Author>Bernstein CN</Author>
+        <Author>Wan Y</Author>
+        <Author>Wong J</Author>
+        <Author>Boucher K</Author>
+        <Author>Pappas L</Author>
+        <Author>Rowe K</Author>
+        <Author>Bronner M</Author>
+        <Author>Ulrich CM</Author>
+        <Author>Burt RW</Author>
+        <Author>Curtin K</Author>
+        <Author>Smith KR</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Cancer Control and Population Sciences, Huntsman Cancer Institute, University of Utah, 2000 Circle of Hope, Salt Lake City, UT, 84112, USA</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10620-016-4435-4</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND AND AIMS: The molecular, endoscopic, and histological features of IBD-associated CRC differ from sporadic CRC. The objective of this study was to describe the prevalence, clinical features, and prognosis of IBD-associated CRC compared to patients with sporadic CRC in a US statewide population-based cohort. METHODS: All newly diagnosed cases of CRC between 1996 and 2011 were obtained from Utah Cancer Registry. IBD was identified using a previously validated algorithm, from statewide databases of Intermountain Healthcare, University of Utah Health Sciences, and the Utah Population Database. Logistic regression was performed to identify risk factors associated with IBD-associated cancer and Cox regression for differences in survival. RESULTS: Among 12,578 patients diagnosed with CRC, 101 (0.8%) had a prior history of IBD (61 ulcerative colitis and 40 Crohn's disease). The mean age at CRC diagnosis was greater for patients without IBD than those with IBD (67.1 vs 52.8 years, P &lt; 0.001). Individuals with IBD-associated CRC were more likely to be men (odds ratio [OR] 1.90, 95% CI 1.23-2.92), aged less than 65 years (OR 6.77, 95% CI 4.06-11.27), and have CRC located in the proximal colon (OR 2.79, 95% CI 1.85-4.20) than those with sporadic CRC. Nearly 20% of the IBD-associated CRCs had evidence of primary sclerosing cholangitis. After adjustment for age, gender, and stage at diagnosis, the excess hazard of death after CRC diagnosis was 1.7 times higher in IBD than in non-IBD patients (95% CI 1.27-2.33). CONCLUSIONS: The features of patients with CRC and IBD differ significantly from those without IBD and may be associated with increased mortality.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0163-2116</Issn>
+      <Eissn>1573-2568</Eissn>
+      <Title>Digestive diseases and sciences</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="ctita" source="cancer">CAN</Keyword>
+      <Keyword type="ctita" source="Carcinoma; carcinoma">CAN</Keyword>
+      <Keyword type="ctita" source="Tumor; tumor">CAN</Keyword>
+      <Keyword type="disease" source="cancer">Cancer</Keyword>
+      <Keyword type="disease" source="carcinoma">Carcinoma</Keyword>
+      <Keyword type="disease" source="necrosis">Necrosis</Keyword>
+      <Keyword type="disease" source="Squamous Cell Carcinoma; squamous cell carcinoma">Squamous-cell-carcinoma</Keyword>
+      <Keyword type="drug" source="cycloheximide">Cycloheximide</Keyword>
+      <Keyword type="drug" source="Epoxomicin">Epoxomicin</Keyword>
+      <Keyword type="drug" source="XIAP">XIAP</Keyword>
+      <Keyword type="drug" source="z-VAD">z-VAD</Keyword>
+      <Keyword type="drug" source="z-VAD-fmk">z-VAD-fmk</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>The Role of cIAP1 and XIAP in Apoptosis Induced by Tumor Necrosis Factor Alpha in Esophageal Squamous Cell Carcinoma Cells.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Hikami S</Author>
+        <Author>Shiozaki A</Author>
+        <Author>Kitagawa-Juge M</Author>
+        <Author>Ichikawa D</Author>
+        <Author>Kosuga T</Author>
+        <Author>Konishi H</Author>
+        <Author>Komatsu S</Author>
+        <Author>Fujiwara H</Author>
+        <Author>Okamoto K</Author>
+        <Author>Otsuji E</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Division of Digestive Surgery, Department of Surgery, Kyoto Prefectural University of Medicine, 465 Kajii-cho, Kamigyo-ku, Kyoto, 602-8566, Japan</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10620-016-4430-9</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: The inhibitor of apoptosis protein (IAP) family are reported to play important roles in cancer cells evading apoptosis. However, the significance of their expression in human esophageal squamous cell carcinoma (ESCC) cells remains uncertain. AIMS: The present study aimed to investigate the role of the IAP family members in tumor necrosis factor-alpha (TNF-alpha)-induced apoptosis of human ESCC cells. METHODS: Five human ESCC cell lines were pretreated with TNF-alpha, cycloheximide (CHX, protein synthesis inhibitor), epoxomicin (proteasome inhibitor). Apoptosis assay and protein study with Western blot testing were conducted. Knockdown experiments with IAP siRNA were conducted, and the effect on cell apoptosis was analyzed. RESULTS: Significant apoptosis was induced in five ESCC cell lines by TNF-alpha plus CHX stimulation, but not when treated with TNF-alpha or CHX alone. The protein expression levels of cIAP1 and XIAP were decreased by treatment with TNF-alpha in the presence of CHX, and the degree of cIAP1 and XIAP expression decrease was correlated with sensitivity to TNF-alpha plus CHX-induced apoptosis. Epoxomicin suppressed TNF-alpha plus CHX-induced degradation of survivin, cIAP1, and XIAP, in addition to apoptosis. A caspase inhibitor (z-VAD-fmk) suppressed TNF-alpha plus CHX-induced apoptosis, but did not suppress degradation of survivin, cIAP1, and XIAP. Furthermore, cIAP1 or XIAP siRNA transfected cells underwent apoptosis in response to treatment with TNF-alpha alone. Double knockdown of both genes resulted in further increased apoptosis. CONCLUSION: cIAP1 and XIAP play an essential role in the resistance of ESCC cells against apoptosis.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0163-2116</Issn>
+      <Eissn>1573-2568</Eissn>
+      <Title>Digestive diseases and sciences</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="random">Best evidence</Characteristic>
+      <Characteristic source="A; male">Case Report</Characteristic>
+      <Characteristic source="an; male">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="charges">PEC</Characteristic>
+      <Characteristic source="costs">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="asthma">AMA</Keyword>
+      <Keyword type="ctita" source="irritable bowel">IBS</Keyword>
+      <Keyword type="ctita" source="migraine">PAN</Keyword>
+      <Keyword type="ctita" source="gastroesophageal">ULC</Keyword>
+      <Keyword type="ctita" source="anxiety">ANX</Keyword>
+      <Keyword type="ctita" source="migraine">SER</Keyword>
+      <Keyword type="ctita" source="vomiting">SER</Keyword>
+      <Keyword type="ctita" source="hypertension">HYP</Keyword>
+      <Keyword type="disease" source="anxiety">Anxiety</Keyword>
+      <Keyword type="disease" source="asthma">Asthma</Keyword>
+      <Keyword type="disease" source="gastroesophageal reflux">Gastroesophageal-reflux</Keyword>
+      <Keyword type="disease" source="gastroparesis">Gastroparesis</Keyword>
+      <Keyword type="disease" source="gastroesophageal reflux disease">Gastroesophageal-reflux-disease</Keyword>
+      <Keyword type="disease" source="hypertension">Hypertension</Keyword>
+      <Keyword type="disease" source="irritable bowel syndrome">Irritable-bowel-syndrome</Keyword>
+      <Keyword type="disease" source="migraine">Migraine</Keyword>
+      <Keyword type="disease" source="vomiting">Vomiting</Keyword>
+      <Keyword type="pec" source="healthcare utilization">resource use</Keyword>
+      <Keyword type="drug" source="AIM">AIM</Keyword>
+      <Keyword type="drug" source="marijuana">Marijuana</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Clinical Characteristics, Comorbidities and Hospital Outcomes in Hospitalizations with Cyclic Vomiting Syndrome: A Nationwide Analysis.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Bhandari S</Author>
+        <Author>Venkatesan T</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Division of General Internal Medicine, Medical College of Wisconsin, 9200 W. Wisconsin Ave., Milwaukee, WI, 53226, USA</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10620-016-4432-7</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Data on cyclic vomiting syndrome (CVS) are limited to studies from tertiary care centers. There is a paucity of information about CVS on a national scale. AIM: To study the clinical characteristics, comorbidities, and hospital outcomes in patients hospitalized with CVS using a nationwide database. METHODS: We identified all hospitalizations associated with a primary diagnosis of CVS in 2010 and 2011 using the Nationwide Inpatient Sample with an age category of 18-55 years. A 1:2 random sample of non-CVS hospitalizations with the same age category was obtained, and comparisons between groups were made. Multivariate logistic regression analysis was used to determine comorbidities independently associated with CVS. RESULTS: Our study included 20,952 CVS and 44,262 non-CVS patients. CVS patients tended to be younger, male, and white compared to non-CVS patients. On multivariate analysis, CVS was significantly associated with comorbidities including dysautonomia, migraine, anxiety, marijuana use, irritable bowel syndrome, gastroparesis, gastroesophageal reflux disease, asthma, cigarette smoking, and hypertension. CVS patients underwent esophagogastroduodenoscopy, colonoscopy, and gastric emptying tests more frequently. They had more favorable hospital outcomes like more routine discharges (discharge to home/self-care), lower mortality, and shorter length of stay but tended to leave against medical advice more frequently. CVS patients incurred total hospital charges of about $400 million over the 2 years. CONCLUSIONS: Our study showed that CVS is associated with several comorbidities and incurred substantial health care costs despite benign outcomes. Efforts to optimize therapy of CVS, manage comorbid conditions and reduce healthcare utilization are warranted.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0167-6997</Issn>
+      <Eissn>1573-0646</Eissn>
+      <Title>Investigational new drugs</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="subjects">Human</Characteristic>
+      <Characteristic source="cohorts">Human</Characteristic>
+      <Characteristic source="plasma">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="tumors.">CAN</Keyword>
+      <Keyword type="ctita" source="nausea">SER</Keyword>
+      <Keyword type="ctita" source="vomiting">SER</Keyword>
+      <Keyword type="disease" source="diarrhea">Diarrhea</Keyword>
+      <Keyword type="disease" source="fatigue">Fatigue</Keyword>
+      <Keyword type="disease" source="nausea">Nausea</Keyword>
+      <Keyword type="disease" source="solid tumors">Solid-tumors</Keyword>
+      <Keyword type="disease" source="vomiting">Vomiting</Keyword>
+      <Keyword type="drug" source="DS-8273a">DS-8273a</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+      <Keyword type="drug" source="plasma">Plasma</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>First-in-human study of the antibody DR5 agonist DS-8273a in patients with advanced solid tumors.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Forero A</Author>
+        <Author>Bendell JC</Author>
+        <Author>Kumar P</Author>
+        <Author>Janisch L</Author>
+        <Author>Rosen M</Author>
+        <Author>Wang Q</Author>
+        <Author>Copigneaux C</Author>
+        <Author>Desai M</Author>
+        <Author>Senaldi G</Author>
+        <Author>Maitland ML</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Medicine, University of Alabama at Birmingham, Birmingham, AL, 35294-3300, USA</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10637-016-0420-1</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Background DR5 is a transmembrane receptor that transduces extracellular ligand-binding to activate apoptosis signaling cascades. This phase 1 study evaluated the safety, tolerability, pharmacokinetics (PK), and pharmacodynamics of a new monoclonal antibody potent DR5 agonist, DS-8273a, in subjects with advanced solid tumors. Methods The study comprised dose escalation and dose expansion cohorts. The dose escalation cohorts intended to determine the safety and to identify the maximum tolerated dose (MTD) or maximum administered dose (MAD) and to characterize the pharmacokinetics and pharmacodynamics by a conventional 3 + 3 design (starting at 2 mg/kg and escalating through 8, 16 and 24 mg/kg once every 3 weeks). In the dose expansion cohort, additional subjects were treated at the MAD for further evaluation of PK and safety. Results Thirty two subjects were enrolled and treated, 16 in the dose escalation cohorts and 16 in the dose expansion cohort. No subjects experienced a dose limiting toxicity (DLT). Treatment emergent adverse events were observed in 29 (91%) subjects, 14 (44%) of which were attributed to study-drug; all drug-related events were grade 1 and 2 in severity, and were mainly fatigue, nausea, vomiting and diarrhea. Measures of plasma exposure increased dose-proportionally and the mean terminal elimination half-life was 11 days. Blood samples available from a subset of patients treated at 24 mg/kg revealed declines in myeloid derived suppressor cells (MDSC) at 2 weeks. No objective responses were observed in any subjects. Conclusions DS-8273a was well tolerated and demonstrated linear pharmacokinetics. Decreases in MDSC were temporally associated with DS-8273a exposure. This agent could be studied further in combination with other agents, pending further proof-of-target-engagement.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0264-410X</Issn>
+      <Eissn>1873-2518</Eissn>
+      <Title>Vaccine</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="day-old">Case Report</Characteristic>
+      <Characteristic source="economic">PEC</Characteristic>
+      <Characteristic source="CD8">RDI</Characteristic>
+      <Characteristic source="IL-10">RDI</Characteristic>
+      <Characteristic source="rapamycin">RDI</Characteristic>
+      <Characteristic source="novel">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="vector">Vector</Keyword>
+      <Keyword type="ctita" source="neoplastic">CAN</Keyword>
+      <Keyword type="ctita" source="vaccine; vaccine,; vaccines">VAX</Keyword>
+      <Keyword type="ctita" source="immunized">VAX</Keyword>
+      <Keyword type="ctita" source="virus">VIR</Keyword>
+      <Keyword type="drug" source="CD8">CD8</Keyword>
+      <Keyword type="drug" source="IL-10">IL-10</Keyword>
+      <Keyword type="drug" source="interferon">Interferon</Keyword>
+      <Keyword type="drug" source="lead">Lead</Keyword>
+      <Keyword type="drug" source="rapamycin">Rapamycin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Efficacy of an autophagy-targeted DNA vaccine against avian leukosis virus subgroup J.</Title>
+      <Citation citationDate="2016-12-31" journalDate="2016-12-31" />
+      <Authors>
+        <Author>Dai Z</Author>
+        <Author>Huang J</Author>
+        <Author>Lei X</Author>
+        <Author>Yan Y</Author>
+        <Author>Lu P</Author>
+        <Author>Zhang H</Author>
+        <Author>Lin W</Author>
+        <Author>Chen W</Author>
+        <Author>Ma J</Author>
+        <Author>Xie Q</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>College of Animal Science, South China Agricultural University &amp; Guangdong Provincial Key Lab of Agro-Animal Genomics and Molecular Breeding &amp; Key Laboratory of Chicken Genetics, Breeding and Reproduction, Ministry of Agriculture, Guangzhou 510642, PR China; Key Laboratory of Animal Health Aquaculture and Environmental Control, Guangzhou, Guangdong 510642, PR China</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1016/j.vaccine.2016.12.034</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Infection with the avian leukosis virus subgroup J (ALV-J) can lead to neoplastic disease in chickens, inflicting significant economic losses to the poultry industry. Recent reports have identified inhibitory effects of ALV-J on autophagy, a process involving in innate and adaptive immunity. Inspired by this connection between autophagy and immunity, we developed a novel DNA vaccine against ALV-J which includes co-administration of rapamycin to stimulate autophagy. To measure the efficacy of the developed prototype vaccine, five experimental groups of seven-day-old chickens was immunized three times at three-week intervals respectively with vector, pVAX1-gp85, pVAX1-gp85-LC3, pVAX1-gp85+rapamycin and pVAX1-gp85-LC3+rapamycin through electroporation. We then tested their antibody titers, cytokine levels and cellular immune responses. The immunoprotective efficacy of the prototype vaccines against the challenge of the ALV-J GD1109 strain was also examined. The results showed that the combination of pVAX1-gp85-LC3 and rapamycin was able to induce the highest antibody titers, and enhance interleukin(IL)-2, IL-10 and interferon (IFN)-gamma expression, and the chickens immunized with the combination of pVAX1-gp85-LC3 and rapamycin showed the highest percentage of CD3+CD8+T lymphocytes. Based on our results, we suggest that stimulating autophagy can improve the efficacy of DNA vaccines and that our DNA vaccine shows the potential of being a candidate vaccine against ALV-J. This study provides a novel strategy for developing vaccines against ALV-J.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0269-2813</Issn>
+      <Eissn>1365-2036</Eissn>
+      <Title>Alimentary pharmacology &amp; therapeutics</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomised">Best evidence</Characteristic>
+      <Characteristic source="Systematic; review">Best evidence</Characteristic>
+      <Characteristic source="Systematic; Search">Best evidence</Characteristic>
+      <Characteristic source="meta-analysis:; Meta-analysis">Best evidence</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="dopamine">RDI</Characteristic>
+      <Characteristic source="midodrine">RDI</Characteristic>
+      <Characteristic source="octreotide">RDI</Characteristic>
+      <Characteristic source="Terlipressin">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="disease" source="acute kidney injury">Acute-kidney-injury</Keyword>
+      <Keyword type="disease" source="hepatorenal syndrome; Hepatorenal syndrome">Hepatorenal-syndrome</Keyword>
+      <Keyword type="drug" source="AIM">AIM</Keyword>
+      <Keyword type="drug" source="dopamine">Dopamine</Keyword>
+      <Keyword type="drug" source="midodrine">Midodrine</Keyword>
+      <Keyword type="drug" source="Noradrenaline">Noradrenaline</Keyword>
+      <Keyword type="drug" source="octreotide">Octreotide</Keyword>
+      <Keyword type="drug" source="Terlipressin">Terlipressin</Keyword>
+      <Keyword type="drug" source="vasopressin">Vasopressin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Systematic review with meta-analysis: vasoactive drugs for the treatment of hepatorenal syndrome type 1.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Gifford FJ</Author>
+        <Author>Morling JR</Author>
+        <Author>Fallowfield JA</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Hepatology, Royal Infirmary of Edinburgh, Edinburgh, UK</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1111/apt.13912</Doi>
+      <PublicationTypes>
+        <PublicationType>Review</PublicationType>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Hepatorenal syndrome type 1 (HRS1) is a functional, rapidly progressive, potentially reversible form of acute kidney injury occurring in patients with cirrhosis. Characterised by intense renal arterial vasoconstriction, it carries a very poor prognosis. There is a significant unmet need for a widely approved, safe and effective pharmacological treatment. AIM: To re-evaluate efficacy and safety of pharmacological treatments for HRS1, in the light of recently published randomised controlled trials (RCTs). METHODS: MEDLINE (OvidSP), EMBASE, PubMed and Cochrane registers were searched for RCTs reporting efficacy and adverse events related to pharmacological treatment of HRS1. Search terms included: 'hepatorenal syndrome', 'terlipressin', 'noradrenaline', 'octreotide', 'midodrine', 'vasopressin', 'dopamine', 'albumin' and synonyms. Comparison of vasoactive drugs vs. placebo/no treatment, and two active drugs were included. Meta-analysis was performed for HRS1 reversal, creatinine improvement, mortality and adverse events. RESULTS: Twelve RCTs enrolling 700 HRS1 patients were included. Treatment with terlipressin and albumin led to HRS1 reversal more frequently than albumin alone or placebo (RR: 2.54, 95% CI: 1.51-4.26). Noradrenaline was effective in reversing HRS1, but trials were small and nonblinded. Overall, there was mortality benefit with terlipressin (RR: 0.79, 95% CI: 0.63-1.01), but sensitivity analysis including only trials with low risk of selection bias weakened this relationship (RR: 0.87, 95% CI: 0.71-1.06). Notably, there was a significant risk of adverse events with terlipressin therapy (RR: 4.32, 95% CI: 0.75-24.86). CONCLUSIONS: Terlipressin treatment is superior to placebo for achieving HRS1 reversal, but mortality benefit is less clear. Terlipressin is associated with significant adverse events, but infusion regimens may be better tolerated. There is continued need for safe and effective treatment options for hepatorenal syndrome.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0270-9139</Issn>
+      <Eissn>1527-3350</Eissn>
+      <Title>Hepatology (Baltimore, Md.)</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="ctita" source="cholangiocarcinoma">CAN</Keyword>
+      <Keyword type="disease" source="cholangiocarcinoma">Cholangiocarcinoma</Keyword>
+      <Keyword type="drug" source="Aspirin">Aspirin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Aspirin use and risk of cholangiocarcinoma: External validation with big data.</Title>
+      <Citation citationDate="2016-11-05" journalDate="2016-11-05" />
+      <Authors>
+        <Author>Altaii H</Author>
+        <Author>Al-Kindi SG</Author>
+        <Author>Oliveira GH</Author>
+        <Author>Yaqoob Z</Author>
+        <Author>Romero-Marrero C</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Medicine, Cleveland Clinic Fairview Hospital, Cleveland, OH</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/hep.28920</Doi>
+      <PublicationTypes>
+        <PublicationType>Letter</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0277-0008</Issn>
+      <Eissn>1875-9114</Eissn>
+      <Title>Pharmacotherapy</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; a">Case Report</Characteristic>
+      <Characteristic source="patient; 1; 2; 4; 5; 8; 18; 20; 30">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="Veterans">Human</Characteristic>
+      <Characteristic source="prescription">Human</Characteristic>
+      <Characteristic source="dasatinib">RDI</Characteristic>
+      <Characteristic source="imatinib">RDI</Characteristic>
+      <Characteristic source="nilotinib">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="leukemia">CAN</Keyword>
+      <Keyword type="ctita" source="CML">CAN</Keyword>
+      <Keyword type="disease" source="Chronic Myeloid Leukemia; chronic myeloid leukemia">Chronic-myeloid-leukemia</Keyword>
+      <Keyword type="disease" source="CML">CML</Keyword>
+      <Keyword type="disease" source="leukemia">Leukemia</Keyword>
+      <Keyword type="disease" source="Myeloid Leukemia; myeloid leukemia">Myeloid-leukemia</Keyword>
+      <Keyword type="drug" source="dasatinib">Dasatinib</Keyword>
+      <Keyword type="drug" source="imatinib">Imatinib</Keyword>
+      <Keyword type="drug" source="nilotinib">Nilotinib</Keyword>
+      <Keyword type="drug" source="tyrosine">Tyrosine</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Evaluation of Long-term Chronic Myeloid Leukemia Treatment Practices with Tyrosine Kinase Inhibitors in a National Cohort of Veterans.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Kreys ED</Author>
+        <Author>Frei CR</Author>
+        <Author>Villarreal SM</Author>
+        <Author>Bollinger MJ</Author>
+        <Author>Jones X</Author>
+        <Author>Koeller JM</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Clinical and Administrative Sciences, College of Pharmacy, California Northstate University, Elk Grove, CA, USA</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/phar.1893</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>STUDY OBJECTIVE: To evaluate nationwide chronic myeloid leukemia treatment practices over an extended period and across multiple lines of tyrosine kinase inhibitor (TKI) therapy with imatinib, dasatinib, and nilotinib. DESIGN: Retrospective cohort study. DATA SOURCE: Veterans Health Administration (VHA) national database. PATIENTS: A total of 2,873 VHA beneficiaries aged 18-89 years who had at least one encounter at any of the approximately 150 VHA hospitals and 800 VHA clinics, had a diagnosis code for chronic myeloid leukemia, and filled at least one prescription for imatinib, nilotinib, or dasatinib between October 1, 2001, and September 30, 2010. MEASUREMENT AND MAIN RESULTS: The VHA database was used for the time period of October 1, 2000, to September 30, 2012, allowing for a 1-year observation period to identify CML treatments prior to study enrollment and a minimum of a 2-year follow-up period to assess study endpoints. Primary study endpoints included change in TKI treatment, gaps in TKI treatment, TKI treatment persistence, and patient survival. Persistence for each distinct line of treatment was defined as the time of continuous therapy, quantified by the number of days covered by the drug from treatment initiation until a 60-day gap in treatment was identified or a switch in treatment occurred. A Kaplan-Meier model was used to evaluate persistence and survival. Of the 2,873 patients receiving first-line TKI treatment, 586 (20.4%) switched to a different TKI, constituting second-line treatment. Two hundred forty-five patients (8.5%) were switched again to third-line treatment. Only 4.4% of patients receiving first-line treatment experienced a gap in therapy of 60 or more days. First-line treatment persistence rates were 75%, 65%, and 55% for the first, second, and third years of treatment, respectively. Five-year survival with first-line treatment was 62%. CONCLUSION: In this national cohort of VHA patients, 1-year persistence of first-line TKI treatment was similar to that in prior studies. Five-year survival was comparable to that in other observational studies but was lower than that in prospective clinical trials. Persistence rates declined after the introduction of the new TKIs. This article is protected by copyright. All rights reserved.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0312-5963</Issn>
+      <Eissn>1179-1926</Eissn>
+      <Title>Clinical pharmacokinetics</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="albiglutide">RDI</Characteristic>
+      <Characteristic source="glucagon">RDI</Characteristic>
+      <Characteristic source="glucagon-like peptide-1">RDI</Characteristic>
+      <Characteristic source="liraglutide">RDI</Characteristic>
+      <Characteristic source="plasma">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="mellitus">Mellitus</Keyword>
+      <Keyword type="ctita" source="diabetes mellitus">DIA</Keyword>
+      <Keyword type="ctita" source="type; diabetes">DIA</Keyword>
+      <Keyword type="ctita" source="nausea">SER</Keyword>
+      <Keyword type="ctita" source="vomiting">SER</Keyword>
+      <Keyword type="disease" source="diabetes mellitus">Diabetes-mellitus</Keyword>
+      <Keyword type="disease" source="diarrhea">Diarrhea</Keyword>
+      <Keyword type="disease" source="fasting">Fasting</Keyword>
+      <Keyword type="disease" source="nausea">Nausea</Keyword>
+      <Keyword type="disease" source="pancreatitis">Pancreatitis</Keyword>
+      <Keyword type="disease" source="type 2 diabetes mellitus">Type-2-diabetes-mellitus</Keyword>
+      <Keyword type="disease" source="vomiting">Vomiting</Keyword>
+      <Keyword type="drug" source="albiglutide">Albiglutide</Keyword>
+      <Keyword type="drug" source="glucagon">Glucagon</Keyword>
+      <Keyword type="drug" source="glucagon-like peptide-1">Glucagon-like-peptide-1</Keyword>
+      <Keyword type="drug" source="glucose">Glucose</Keyword>
+      <Keyword type="drug" source="liraglutide">Liraglutide</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+      <Keyword type="drug" source="plasma">Plasma</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Clinical Pharmacokinetics and Pharmacodynamics of Albiglutide.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Bronden A</Author>
+        <Author>Knop FK</Author>
+        <Author>Christensen MB</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Center for Diabetes Research, Gentofte Hospital, University of Copenhagen, Hellerup, Copenhagen, Denmark</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s40262-016-0499-8</Doi>
+      <PublicationTypes>
+        <PublicationType>Review</PublicationType>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Albiglutide is a long-acting, glucagon-like peptide-1 receptor agonist for subcutaneous administration with a recommended dose of 30-50 mg once weekly. The aim of this article is to outline the pharmacokinetic and pharmacodynamic properties of albiglutide including the clinical efficacy and safety data underlying the approval of albiglutide for the treatment of type 2 diabetes mellitus in both Europe and USA. Albiglutide is cleared from the circulation (by a mechanism partially dependent on renal function) with an elimination half-life of 5 days, allowing once-weekly administration. In the clinical trial program called HARMONY, albiglutide demonstrated placebo-corrected reductions in glycosylated hemoglobin of 0.8-1.0%. In addition, reductions in fasting plasma glucose in the range of 1.3-2.4 mmol/L compared with placebo were reported. Albiglutide caused weight reductions at a level comparable to placebo in the HARMONY trials, possibly related to limited central nervous system penetration of the large albiglutide molecule. Albiglutide demonstrated a generally favorable safety profile, although with a signal of an increased risk of pancreatitis. The well-known adverse events related to glucagon-like peptide-1 receptor activation such as nausea, diarrhea, and vomiting were less frequent with albiglutide compared with another glucagon-like peptide-1 receptor agonist, liraglutide, but slightly more frequent following treatment with albiglutide than with placebo or active comparators from other classes of anti-hyperglycemic drugs. The full risk-benefit profile for albiglutide used in treating type 2 diabetes will not be clear until reporting of the long-term cardiovascular outcome trial (HARMONY Outcome) with planned completion in 2019.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0312-5963</Issn>
+      <Eissn>1179-1926</Eissn>
+      <Title>Clinical pharmacokinetics</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="plasma">RDI</Characteristic>
+      <Characteristic source="Tacrolimus">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="transplant; transplantation; recipients.; recipients">TRS</Keyword>
+      <Keyword type="ctita" source="transplant; transplantation; patients.; patients">TRS</Keyword>
+      <Keyword type="drug" source="plasma">Plasma</Keyword>
+      <Keyword type="drug" source="Tacrolimus">Tacrolimus</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>A New CYP3A5*3 and CYP3A4*22 Cluster Influencing Tacrolimus Target Concentrations: A Population Approach.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Andreu F</Author>
+        <Author>Colom H</Author>
+        <Author>Elens L</Author>
+        <Author>van Gelder T</Author>
+        <Author>van Schaik RH</Author>
+        <Author>Hesselink DA</Author>
+        <Author>Bestard O</Author>
+        <Author>Torras J</Author>
+        <Author>Cruzado JM</Author>
+        <Author>Grinyo JM</Author>
+        <Author>Lloberas N</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Laboratory 4122, Nephrology Service and Laboratory of Experimental Nephrology, University of Barcelona, Campus Bellvitge, Pavello de Govern, Feixa Llarga, s/n, L'Hospitalet de Llobregat, 08907, Barcelona, Spain</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s40262-016-0491-3</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Single nucleotide polymorphisms (SNPs) in the CYP3A5 and CYP3A4 genes have been reported to be an important cause of variability in the pharmacokinetics of tacrolimus in renal transplant patients. The aim of this study was to merge all of the new genetic information available with tacrolimus pharmacokinetics to generate a more robust population model with data from renal transplant recipients. METHODS: Tacrolimus exposure data from 304 renal transplant recipients were collected throughout the first year after transplantation and were simultaneously analyzed with a population pharmacokinetic approach using NONMEM(R) version 7.2. RESULTS: The tacrolimus whole-blood concentration versus time data were best described by a two-open-compartment model with inter-occasion variability assigned to plasma clearance. The following factors led to the final model, which significantly decreased the minimum objective function value (p &lt; 0.001): a new genotype cluster variable combining the CYP3A5*3 and CYP3A4*22 SNPs defined as extensive, intermediate, and poor metabolizers; the standardization of tacrolimus whole blood concentrations to a hematocrit value of 45%; and age included as patients &lt;63 years versus patients &gt;/=63 years. External validation confirmed the prediction ability of the model with median bias and precision values of 1.17 ng/mL (95% confidence interval [CI] -3.68 to 4.50) and 1.64 ng/mL (95% CI 0.11-5.50), respectively. Simulations showed that, for a given age and hematocrit at the same fixed dose, extensive metabolizers required the highest doses followed by intermediate metabolizers and then poor metabolizers. CONCLUSIONS: Tacrolimus disposition in renal transplant recipients was described using a new population pharmacokinetic model that included the CYP3A5*3 and CYP3A4*22 genotype, age, and hematocrit.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0815-9319</Issn>
+      <Eissn>1440-1746</Eissn>
+      <Title>Journal of gastroenterology and hepatology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="random-sample,">Best evidence</Characteristic>
+      <Characteristic source="patient; a; h; p">Case Report</Characteristic>
+      <Characteristic source="patient; 1; 5; 8; 20; 31; 36; 40">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="EQ-5D">PEC</Characteristic>
+      <Characteristic source="quality of life">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="Gastroesophageal">ULC</Keyword>
+      <Keyword type="ctita" source="laryngopharyngeal reflux">ULC</Keyword>
+      <Keyword type="disease" source="gastroesophageal reflux; Gastroesophageal reflux">Gastroesophageal-reflux</Keyword>
+      <Keyword type="disease" source="gastroesophageal reflux disease">Gastroesophageal-reflux-disease</Keyword>
+      <Keyword type="disease" source="GERD">GERD</Keyword>
+      <Keyword type="disease" source="laryngopharyngeal reflux">Laryngopharyngeal-reflux</Keyword>
+      <Keyword type="pec" source="quality of life">quality of life</Keyword>
+      <Keyword type="drug" source="AIM">AIM</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Quality of life, patient satisfaction, and disease burden in patients with gastroesophageal reflux disease with or without laryngopharyngeal reflux symptoms.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Gong EJ</Author>
+        <Author>Choi KD</Author>
+        <Author>Jung HK</Author>
+        <Author>Youn YH</Author>
+        <Author>Min BH</Author>
+        <Author>Song KH</Author>
+        <Author>Huh KC</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Gastroenterology, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1111/jgh.13716</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND AND AIM: Patients with gastroesophageal reflux disease (GERD) have decreased health-related quality of life (HRQL). The quality of life in patients with laryngopharyngeal reflux (LPR) symptoms is also significantly impaired. However, the impact of LPR symptoms on HRQL in GERD patients has not been studied. METHODS: A nationwide, random-sample, and face-to-face survey of 300 Korean patients with GERD was conducted from January to March 2013. Gastroesophageal reflux symptoms were assessed using the Rome III questionnaire, LPR symptoms using the reflux symptom index, and HRQL using the EuroQol-5 dimensions (EQ-5D) questionnaire. A structured questionnaire on patient satisfaction, sickness-related absences, and health-related work productivity were also used. RESULTS: Among 300 patients with GERD, 150 had LPR symptoms. The mean EQ-5D index was lower in patients with GERD and LPR symptoms than in those without LPR (0.88 vs. 0.91, p = 0.002). A linear regression model showed that the severity of LPR symptoms was related to decreased HRQL and was independent of age, marital status, body mass index or household income. The overall satisfaction rate regarding treatment was lower in patients with GERD and LPR (40.0% vs. 69.1%, p = 0.040). GERD patients with LPR symptoms reported greater sickness-related absent hours per week (0.36 h vs. 0.02 h, p = 0.016) and greater percentages of overall work impairment than those without LPR (31.1% vs. 20.8%, p &lt; 0.001). CONCLUSIONS: GERD patients with LPR symptoms have a poorer HRQL, a lower satisfaction rate, and a greater disease burden than those without LPR.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0832-610X</Issn>
+      <Eissn>1496-8975</Eissn>
+      <Title>Canadian journal of anaesthesia = Journal canadien d'anesthesie</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="company" source="PURPOSE">Purpose</Keyword>
+      <Keyword type="disease" source="anesthesia">Anesthesia</Keyword>
+      <Keyword type="drug" source="ketamine">Ketamine</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Access to controlled medicines for anesthesia and surgical care in low-income countries: a narrative review of international drug control systems and policies.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Nickerson JW</Author>
+        <Author>Pettus K</Author>
+        <Author>Wheeler KE</Author>
+        <Author>Hallam C</Author>
+        <Author>Bewley-Taylor DR</Author>
+        <Author>Attaran A</Author>
+        <Author>Gelb AW</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Bruyere Research Institute, 85 Primrose Ave., Ottawa, ON, K1R 6M1, Canada</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s12630-016-0805-9</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>PURPOSE: This article describes the functioning of the international drug control system, its integration into national legislation and policy, and the collective impact on access to medicines. SOURCE: We conducted a review of the three international drug control conventions, peer-reviewed articles, and grey literature known to the authors that describes national and international drug control systems and their impact on access to controlled medicines. This review was supplemented with literature derived from a structured search of MEDLINE(R) for articles relating to medical uses of ketamine in low- and middle-income countries conducted to strengthen an advocacy campaign. We illustrate the impact of the drug control system on access to medicines through an analysis of current levels of availability of opioids in many countries as well as through a description of the ongoing advocacy work to ensure the availability of ketamine for medical care in low-income countries. PRINCIPAL FINDINGS: The complexity of the international drug control system, along with health providers' lack of knowledge regarding key provisions, presents a barrier to improving access to safe anesthesia care in low- and middle-income countries. Fifteen of the 46 essential medicines of potential relevance to perioperative care are listed under one or more of the schedules of the three international drug control conventions and, subsequently, are required to be under national controls, potentially decreasing their availability for medical use. CONCLUSION: Improving the capacity and quality of anesthesia care in low- and middle-income countries requires attention to improving access to controlled medicines. Anesthesiologists and others involved in global health work should collaborate with policymakers and others to improve national and international drug control legislation to ensure that attempts to thwart illicit drug trafficking and use do not compromise availability of controlled medicines.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0832-610X</Issn>
+      <Eissn>1496-8975</Eissn>
+      <Title>Canadian journal of anaesthesia = Journal canadien d'anesthesie</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="PURPOSE">Purpose</Keyword>
+      <Keyword type="ctita" source="hypertension">HYP</Keyword>
+      <Keyword type="disease" source="acidosis">Acidosis</Keyword>
+      <Keyword type="disease" source="hyperkalemia">Hyperkalemia</Keyword>
+      <Keyword type="disease" source="hypertension">Hypertension</Keyword>
+      <Keyword type="disease" source="metabolic acidosis">Metabolic-acidosis</Keyword>
+      <Keyword type="disease" source="pulmonary hypertension">Pulmonary-hypertension</Keyword>
+      <Keyword type="disease" source="respiratory failure">Respiratory-failure</Keyword>
+      <Keyword type="drug" source="oxygen">Oxygen</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>The effectiveness of apneic oxygenation during tracheal intubation in various clinical settings: a narrative review.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Wong DT</Author>
+        <Author>Yee AJ</Author>
+        <Author>Leong SM</Author>
+        <Author>Chung F</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Anesthesia, Toronto Western Hospital, University Health Network, University of Toronto, MC2-405, 399 Bathurst Street, Toronto, ON, M5T 2S8, Canada</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s12630-016-0802-z</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>PURPOSE: During the process of tracheal intubation, patients are apneic or hypoventilating and are at risk of becoming hypoxemic. This risk is especially high in patients with acute or chronic respiratory failure and accompanying compromised respiratory reserve. To address this concern, apneic oxygenation can be administered during tracheal intubation to aid in maintaining arterial oxygen saturation. The objective of this narrative review is to examine the utilization of apneic oxygenation within the operating room, intensive care unit (ICU), emergency department, and pre-hospital settings and to determine its efficacy compared with controls. SOURCE: For this narrative review, we obtained pertinent articles using MEDLINE(R) (1946 to April 2016), EMBASE (1974 to April 2016), Google Scholar, and manual searches. Apneic oxygenation was administered using various techniques, including the use of nasal prongs, nasopharyngeal or endotracheal catheters, or laryngoscopes. PRINCIPAL FINDINGS: First, all 12 operating room studies showed that apneic oxygenation significantly prolonged the duration to, and incidence of, desaturation. Second, two of the five ICU studies showed a significantly smaller decline in oxygen saturation with apneic oxygenation, with three studies showing no statistically significant difference vs controls. Lastly, two emergency department or pre-hospital studies showed that the use of apneic oxygenation resulted in a significantly lower incidence of desaturation and smaller declines in oxygen saturation. CONCLUSION: Sixteen of the 19 studies showed that apneic oxygenation prolongs safe apneic time and reduces the incidence of arterial oxygen desaturation. Overall, studies in this review show that apneic oxygenation prolongs the time to oxygen desaturation during tracheal intubation. Nevertheless, the majority of the studies were small in size, and they neither measured nor were adequately powered to detect adverse respiratory events or other serious rare complications. Prolonged apneic oxygenation (with its consequent hypercarbia) can have risks and should be avoided in patients with conditions such as increased intracranial pressure, metabolic acidosis, hyperkalemia, and pulmonary hypertension.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0832-610X</Issn>
+      <Eissn>1496-8975</Eissn>
+      <Title>Canadian journal of anaesthesia = Journal canadien d'anesthesie</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomized">Best evidence</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="dexamethasone">RDI</Characteristic>
+      <Characteristic source="ropivacaine">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="normal">Normal</Keyword>
+      <Keyword type="ctita" source="analgesic; analgesia,; analgesia">PAN</Keyword>
+      <Keyword type="disease" source="anesthesia">Anesthesia</Keyword>
+      <Keyword type="disease" source="regional anesthesia">Regional-anesthesia</Keyword>
+      <Keyword type="drug" source="dexamethasone">Dexamethasone</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+      <Keyword type="drug" source="ropivacaine">Ropivacaine</Keyword>
+      <Keyword type="drug" source="saline">Saline</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Low dose intravenous dexamethasone (4 mg and 10 mg) significantly prolongs the analgesic duration of single-shot interscalene block after arthroscopic shoulder surgery: a prospective randomized placebo-controlled study.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Chalifoux F</Author>
+        <Author>Colin F</Author>
+        <Author>St-Pierre P</Author>
+        <Author>Godin N</Author>
+        <Author>Brulotte V</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Anesthesiology, Hopital Maisonneuve-Rosemont, Universite de Montreal, 5415 boulevard Assomption, Montreal, QC, H1T 2M4, Canada</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s12630-016-0796-6</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Although intravenous dexamethasone prolongs the analgesic duration of interscalene brachial plexus block, it is uncertain whether this effect can be observed using lower doses of dexamethasone. This study evaluated the impact of intravenous dexamethasone (4 mg and 10 mg) on the analgesic duration of single-shot interscalene block after arthroscopic shoulder surgery. We hypothesized that both doses would prolong the analgesic duration compared with placebo. METHODS: This was a prospective double-blind randomized placebo-controlled study in patients undergoing elective arthroscopic shoulder surgery under regional anesthesia with a single-shot interscalene block (0.5% ropivacaine 20 mL). Patients received dexamethasone 4 mg (D4), dexamethasone 10 mg (D10), or a placebo (normal saline [NS]) intravenously at the time of block completion. The primary outcome was the duration of analgesia, defined as the time from the onset of sensory blockade to the first analgesic request. The primary outcome was first analyzed with a Kruskal-Wallis test and then with a Mann-Whitney test for pairwise between-group comparison. RESULTS: Sixty-nine patients completed the study. The median [interquartile range] duration of analgesia was significantly different between the three groups (D4, 19.7 [16.9-23.3] hr; D10, 19.1 [11.5-22.8] hr; and NS, 11.8 [9.3-14.0] hr; P = 0.001). This difference was statistically significant for D4 and D10 compared with placebo (median difference [MD], 7.8 hr; 95% confidence interval [CI], 4.6 to 11.1 hr; P &lt; 0.001; and MD, 7.4 hr; 95% CI, 4.2 to 10.5 hr; P = 0.001, respectively) but not for D4 compared with D10 (MD, 0.5 hr; 95% CI, -2.8 to 3.7 hr; P = 0.38). CONCLUSIONS: Low doses of intravenous dexamethasone (4 mg and 10 mg) significantly prolong the analgesic duration of interscalene block. This trial was registered at ClinicalTrials.gov (NCT02412657).
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0934-9723</Issn>
+      <Eissn>1435-4373</Eissn>
+      <Title>European journal of clinical microbiology &amp; infectious diseases : official publication of the European Society of Clinical Microbiology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="chart review">Case Report</Characteristic>
+      <Characteristic source="we report; cases">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="neonates">Human</Characteristic>
+      <Characteristic source="children">Human</Characteristic>
+      <Characteristic source="we report; PATIENTS:; patients; patients.">Case Report</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="infections; infection; Infection; Staphylococcus">ANT</Keyword>
+      <Keyword type="disease" source="infections">Infections</Keyword>
+      <Keyword type="disease" source="MRSA">MRSA</Keyword>
+      <Keyword type="disease" source="relapse">Relapse</Keyword>
+      <Keyword type="disease" source="skin infections">Skin-infections</Keyword>
+      <Keyword type="disease" source="skin and soft tissue infections">Skin-and-soft-tissue-infections</Keyword>
+      <Keyword type="disease" source="soft tissue infections">Soft-tissue-infections</Keyword>
+      <Keyword type="disease" source="Staphylococcus aureus">Staphylococcus-aureus</Keyword>
+      <Keyword type="drug" source="methicillin">Methicillin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>USA300, A strain of community-associated methicillin-resistant Staphylococcus aureus, crossing Belgium's borders: outbreak of skin and soft tissue infections in a hospital in Belgium.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Kairet K</Author>
+        <Author>Ho E</Author>
+        <Author>Van Kerkhoven D</Author>
+        <Author>Boes J</Author>
+        <Author>Van Calenbergh S</Author>
+        <Author>Pattyn L</Author>
+        <Author>Lemay P</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Paediatrics, Sint-Jozef AZ Turnhout vzw, Campus Sint-Jozef Steenweg op Merksplas 44, 2300, Turnhout, Belgium</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s10096-016-2883-6</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>OBJECTIVE: to investigate an outbreak of community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA) USA300 in a hospital setting, and the effect of infection control measures. DESIGN: outbreak investigation and retrospective chart review. SETTING: local inpatient and outpatient clinic. PATIENTS: all patients with a history of skin and soft tissue infections with culture-confirmed methicillin-resistant Staphylococcus aureus USA 300 infection from September, 2014, through June, 2015. INTERVENTIONS: an outbreak investigation with a "search and destroy" policy was carried out. A review of infection control practices was conducted. Chart reviews were conducted to study the management and outcomes of the patients. Infection control measures included education and cultures of skin colonization sites (anterior nares, pharynx, perineum). Specific decontamination schemes for uncomplicated and complicated carriers were enforced. Separate decontamination schemes for neonates and children under 5 years of age were implemented. RESULTS: between September 2014 and June 2015, 12 clinical cases and six carriers were identified. Of the twelve clinical presentations with positive cultures, eight were children. Of the four patients who had a relapse, three were children (75%). After outbreak investigation and infection control measures have been implemented, three persistent carriers remained. A policy of periodic screening, consultation, and watchful waiting for skin infections was instituted for these patients. No new cases linked to the CA-MRSA outbreak have since been reported. CONCLUSION: we report the first Belgian outbreak of CA-MRSA USA300 in this article. A strict search and destroy strategy and continued surveillance are required in the management of CA-MRSA USA300.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1175-3277</Issn>
+      <Eissn>1179-187X</Eissn>
+      <Title>American journal of cardiovascular drugs : drugs, devices, and other interventions</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="phase IIb/III">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="ABI">ABI</Keyword>
+      <Keyword type="company" source="flow">Flow</Keyword>
+      <Keyword type="ctita" source="Pain">PAN</Keyword>
+      <Keyword type="ctita" source="PAD">THR</Keyword>
+      <Keyword type="ctita" source="peripheral; vascular; arterial; disease">THR</Keyword>
+      <Keyword type="disease" source="ischemia">Ischemia</Keyword>
+      <Keyword type="disease" source="Pain">Pain</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+      <Keyword type="drug" source="pl-VEGF165">pl-vegf165</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Results of an International Postmarketing Surveillance Study of pl-VEGF165 Safety and Efficacy in 210 Patients with Peripheral Arterial Disease.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Deev R</Author>
+        <Author>Plaksa I</Author>
+        <Author>Bozo I</Author>
+        <Author>Isaev A</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Human Stem Cells Institute, Bld. 2, 3 Gubkina Str., P.O. box 373, Moscow, 119333, Russia</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s40256-016-0210-3</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>INTRODUCTION: The effective treatment of chronic lower limb ischemia is one of the most challenging issues confronting vascular surgeons. Current pharmacological therapies play an auxiliary role and cannot prevent disease progression, and new treatment methods are needed. pl-VEGF165, a gene therapy drug, was approved in Russia for the treatment of atherosclerotic peripheral arterial disease (PAD) after clinical studies in 2011. The study drug is an original gene construction in which pl-VEGF165 1.2 mg is the active substance. OBJECTIVE: This postmarketing surveillance study was undertaken to evaluate the safety (identification of uncommon side effects) and efficacy of gene therapy in patients in routine clinical practice. METHODS: In total, 210 patients with stage II-III chronic limb ischemia (according to the Fontaine classification modified by AV Pokrovsky) in 33 healthcare facilities in Russia and the Ukraine were enrolled in the study. The control group (n = 60) received conservative therapy without prostaglandins and prostacyclins, and the treatment group (n = 150) received treatment with pl-VEGF165 as two intramuscular injections for a total dose of 2.4 mg. Pain-free walking distance (PWD) (the primary efficacy criterion for Fontaine stages II-III), blood flow linear velocity (BFLV), and ankle-brachial index (ABI) were monitored for 6 months. The safety of pl-VEGF165 gene transfer in terms of the trial protocol was initially evaluated 6 months after the start of the study; adverse events (AEs) and serious adverse events (SAEs) were recorded during both routine visits and unscheduled requests for medical care. RESULTS: Overall, PWD increased by 177%, from 100.3 +/- 6.9 to 277.1 +/- 16.2 m (p = 0.0001), in the treatment group, whereas the mean value was unchanged in the control group (p = 0.218). Both BFLV and ABI values increased by 24% (p = 0.0001) in the treatment group but decreased in the control group. The greatest therapeutic effect was observed for stage III disease: PWD increased by 683% (p = 0.0001). No angiogenic therapy-related AEs or side effects were recorded, and target limb salvage was 96 and 97% in the treatment and control groups, respectively. The results obtained in this study are not significantly different from those observed in the phase IIb/III registration clinical study completed in 2011. CONCLUSION: pl-VEGF165 intramuscular gene transfer is an effective treatment for moderate to severe claudication due to chronic lower limb ischemia in routine clinical practice. ClinicalTrials.gov identifier: NCT02369809.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1346-9843</Issn>
+      <Eissn>1347-4820</Eissn>
+      <Title>Circulation journal : official journal of the Japanese Circulation Society</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomized">Best evidence</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="epinephrine">RDI</Characteristic>
+      <Characteristic source="nitric oxide">RDI</Characteristic>
+      <Characteristic source="Plasma">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="hypertension">HYP</Keyword>
+      <Keyword type="ctita" source="Hypertensive; patients">HYP</Keyword>
+      <Keyword type="disease" source="hyperemia">Hyperemia</Keyword>
+      <Keyword type="disease" source="hypertension">Hypertension</Keyword>
+      <Keyword type="disease" source="resistant hypertension">Resistant-hypertension</Keyword>
+      <Keyword type="drug" source="aldosterone">Aldosterone</Keyword>
+      <Keyword type="drug" source="endothelin-1">Endothelin-1</Keyword>
+      <Keyword type="drug" source="epinephrine">Epinephrine</Keyword>
+      <Keyword type="drug" source="HT">HT</Keyword>
+      <Keyword type="drug" source="nitric oxide">Nitric-oxide</Keyword>
+      <Keyword type="drug" source="norepinephrine">Norepinephrine</Keyword>
+      <Keyword type="drug" source="Plasma">Plasma</Keyword>
+      <Keyword type="drug" source="water">Water</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Neurohumoral and Endothelial Responses to Heated Water-Based Exercise in Resistant Hypertensive Patients.</Title>
+      <Citation citationDate="2016-12-29" journalDate="2016-12-29" />
+      <Authors>
+        <Author>Cruz LG</Author>
+        <Author>Bocchi EA</Author>
+        <Author>Grassi G</Author>
+        <Author>Guimaraes GV</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Laboratory of Physical Activity and Health Heart Institute, Clinical Hospital, Department of Medicine, Sao Paulo University</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1253/circj.CJ-16-0870</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: The neurohumoral and endothelial responses to the blood pressure (BP) lowering effects of heated water-based exercise (HEx) in resistant hypertension (HT) patients remain undefined.Methods and Results:We investigated these in 44 true resistant HT patients (age 53.3+/-0.9 years, mean+/-SEM). They were randomized and allocated to 2 groups, 28 to a HEx training protocol, which consisted of callisthenic exercises and walking in a heated pool for 1 h, three times weekly for 12 weeks and 16 patients to a control group maintaining their habitual activities. Measurements made before and after 12 weeks of HEx included clinic and 24-h BP, plasma levels of nitric oxide, endothelin-1, aldosterone, renin, norepinephrine and epinephrine, as well as peak VO2, and endothelial function (reactive hyperemia). After 12 weeks of HEx patients showed a significant decrease in clinic and 24-h systolic and diastolic BPs. Concomitantly, nitric oxide increased significantly (from 25+/-8 to 75+/-24 mumol/L, P&lt;0.01), while endothelin-1 (from 41+/-5 to 26+/-3 pg/mL), renin (from 35+/-4 to 3.4+/-1 ng/mL/h), and norepinephrine (from 720+/-54 to 306+/-35 pg/mL) decreased significantly (P&lt;0.01). Plasma aldosterone also tended to decrease, although not significantly (from 101+/-9 to 76+/-4 pg/mL, P=NS). Peak VO2increased significantly after HEx (P&lt;0.01), while endothelial function was unchanged. No significant change was detected in the control group. CONCLUSIONS: The BP-lowering effects of HEx in resistant HT patients were accompanied by a significant reduction in the marked neurohumoral activation characterizing this clinical condition.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1346-9843</Issn>
+      <Eissn>1347-4820</Eissn>
+      <Title>Circulation journal : official journal of the Japanese Circulation Society</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="a; male">Case Report</Characteristic>
+      <Characteristic source="an; male">Case Report</Characteristic>
+      <Characteristic source="subjects">Human</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="purpose">Purpose</Keyword>
+      <Keyword type="ctita" source="obesity">OBE</Keyword>
+      <Keyword type="ctita" source="high; BP">HYP</Keyword>
+      <Keyword type="ctita" source="high; blood; pressure">HYP</Keyword>
+      <Keyword type="ctita" source="atherosclerosis">LIP</Keyword>
+      <Keyword type="ctita" source="dyslipidemia">LIP</Keyword>
+      <Keyword type="ctita" source="low; HDL">LIP</Keyword>
+      <Keyword type="disease" source="atherosclerosis">Atherosclerosis</Keyword>
+      <Keyword type="disease" source="fasting">Fasting</Keyword>
+      <Keyword type="disease" source="obesity">Obesity</Keyword>
+      <Keyword type="drug" source="glucose">Glucose</Keyword>
+      <Keyword type="drug" source="mg">Mg</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>High Pulse Wave Velocity Has a Strong Impact on Early Carotid Atherosclerosis in a Japanese General Male Population.</Title>
+      <Citation citationDate="2016-12-29" journalDate="2016-12-29" />
+      <Authors>
+        <Author>Kubozono T</Author>
+        <Author>Miyata M</Author>
+        <Author>Kawasoe S</Author>
+        <Author>Ojima S</Author>
+        <Author>Yoshifuku S</Author>
+        <Author>Miyahara H</Author>
+        <Author>Maenohara S</Author>
+        <Author>Ohishi M</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Cardiovascular Medicine and Hypertension, Kagoshima University</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1253/circj.CJ-16-0687</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>BACKGROUND: Although there have been several reports on the risk factors associated with intima-media thickness (IMT), many questions remain. The purpose of this study was to investigate the association between IMT and cardiovascular risk factors in a Japanese general population.Methods and Results:The study group consisted of 1,583 male subjects undergoing routine health checkups. IMT of the common carotid artery was measured by high-resolution ultrasonography. Brachial-ankle pulse wave velocity (baPWV) was measured using an automated device. Univariate analysis demonstrated that carotid IMT significantly associated with age, body mass index (BMI), systolic blood pressure (SBP), diastolic blood pressure (DBP), baPWV, fasting glucose, low-density lipoprotein cholesterol (LDL-C), triglycerides (TG), and high-density lipoprotein cholesterol (HDL-C). Multiple logistic regression analysis for carotid atherosclerosis (carotid IMT &gt;/=1.0 mm) was performed using obesity (BMI &gt;/=25.0 kg/m2), high BP (SBP &gt;/=130 mmHg or DBP &gt;/=85 mmHg), dyslipidemia (LDL-C &gt;/=140 mg/dL, TG &gt;/=150 mg/dL, or HDL-C &lt;40 mg/dL), impaired fasting glucose (IFG) (fasting glucose &gt;/=110 g/dL), and high baPWV (&gt;/=1,400 cm/s). Carotid atherosclerosis was significantly associated with only high baPWV (OR: 2.22, 95% CI: 1.24-4.17, P&lt;0.01). CONCLUSIONS: High baPWV was a stronger predictor of early carotid atherosclerosis than high BP, dyslipidemia, or IFG in a Japanese general male population.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1355-6037</Issn>
+      <Eissn>1468-201X</Eissn>
+      <Title>Heart (British Cardiac Society)</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="a; adult">Case Report</Characteristic>
+      <Characteristic source="an; adult">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="collagen">RDI</Characteristic>
+      <Characteristic source="preclinical">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="arrhythmias; arrhythmia">ARR</Keyword>
+      <Keyword type="ctita" source="sudden cardiac death">ARR</Keyword>
+      <Keyword type="ctita" source="tetralogy of Fallot">HTF</Keyword>
+      <Keyword type="ctita" source="pulmonary; regurgitation">HTF</Keyword>
+      <Keyword type="ctita" source="reduced; ventricular">HTF</Keyword>
+      <Keyword type="disease" source="arrhythmias">Arrhythmias</Keyword>
+      <Keyword type="disease" source="death">Death</Keyword>
+      <Keyword type="disease" source="hypertrophy">Hypertrophy</Keyword>
+      <Keyword type="disease" source="tetralogy of Fallot">Tetralogy-of-Fallot</Keyword>
+      <Keyword type="drug" source="collagen">Collagen</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Proarrhythmic remodelling of the right ventricle in a porcine model of repaired tetralogy of Fallot.</Title>
+      <Citation citationDate="2016-10-08" journalDate="2016-10-08" />
+      <Authors>
+        <Author>Benoist D</Author>
+        <Author>Dubes V</Author>
+        <Author>Roubertie F</Author>
+        <Author>Gilbert SH</Author>
+        <Author>Charron S</Author>
+        <Author>Constantin M</Author>
+        <Author>Elbes D</Author>
+        <Author>Vieillot D</Author>
+        <Author>Quesson B</Author>
+        <Author>Cochet H</Author>
+        <Author>Haissaguerre M</Author>
+        <Author>Rooryck C</Author>
+        <Author>Bordachar P</Author>
+        <Author>Thambo JB</Author>
+        <Author>Bernus O</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>IHU LIRYC, L'Institut de Rythmologie et Modelisation Cardiaque, Fondation Bordeaux Universite, Bordeaux, France</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1136/heartjnl-2016-309730</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>OBJECTIVE: The growing adult population with surgically corrected tetralogy of Fallot (TOF) is at risk of arrhythmias and sudden cardiac death. We sought to investigate the contribution of right ventricular (RV) structural and electrophysiological remodelling to arrhythmia generation in a preclinical animal model of repaired TOF (rTOF). METHODS AND RESULTS: Pigs mimicking rTOF underwent cardiac MRI functional characterisation and presented with pulmonary regurgitation, RV hypertrophy, dilatation and dysfunction compared with Sham-operated animals (Sham). Optical mapping of rTOF RV-perfused wedges revealed a significant prolongation of RV activation time with slower conduction velocities and regions of conduction slowing well beyond the surgical scar. A reduced protein expression and lateralisation of Connexin-43 were identified in rTOF RVs. A remodelling of extracellular matrix-related gene expression and an increase in collagen content that correlated with prolonged RV activation time were also found in these animals. RV action potential duration (APD) was prolonged in the epicardial anterior region at early and late repolarisation level, thus contributing to a greater APD heterogeneity and to altered transmural and anteroposterior APD gradients in rTOF RVs. APD remodelling involved changes in Kv4.3 and MiRP1 expression. Spontaneous arrhythmias were more frequent in rTOF wedges and more complex in the anterior than in the posterior RV. CONCLUSION: Significant remodelling of RV conduction and repolarisation properties was found in pigs with rTOF. This remodelling generates a proarrhythmic substrate likely to facilitate re-entries and to contribute to sudden cardiac death in patients with rTOF.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1388-9842</Issn>
+      <Eissn>1879-0844</Eissn>
+      <Title>European journal of heart failure</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="Liraglutide">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="heart; failure">HTF</Keyword>
+      <Keyword type="disease" source="heart failure">Heart-failure</Keyword>
+      <Keyword type="drug" source="Liraglutide">Liraglutide</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Liraglutide in heart failure: caution is needed.</Title>
+      <Citation volume="19" issue="1" citationDate="2017-01-01" journalDate="2017-01-01" pages="78-79" />
+      <Authors>
+        <Author>Komajda M</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Institute of Cardiometabolism and Nutrition (ICAN), Pierre &amp; Marie Curie Paris VI University, Pitie-Salpetriere Hospital, Paris, France</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/ejhf.707</Doi>
+      <PublicationTypes>
+        <PublicationType>Editorial</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1388-9842</Issn>
+      <Eissn>1879-0844</Eissn>
+      <Title>European journal of heart failure</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="subjects">Human</Characteristic>
+      <Characteristic source="amiodarone">RDI</Characteristic>
+      <Characteristic source="BNP">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="MDS">MDS</Keyword>
+      <Keyword type="ctita" source="MDS">CAN</Keyword>
+      <Keyword type="ctita" source="arrhythmia;; arrhythmia.">ARR</Keyword>
+      <Keyword type="ctita" source="tachycardia">ARR</Keyword>
+      <Keyword type="ctita" source="heart; failure">HTF</Keyword>
+      <Keyword type="ctita" source="ventricular; failure">HTF</Keyword>
+      <Keyword type="disease" source="chronic heart failure">Chronic-heart-failure</Keyword>
+      <Keyword type="disease" source="heart failure">Heart-failure</Keyword>
+      <Keyword type="disease" source="tachycardia">Tachycardia</Keyword>
+      <Keyword type="disease" source="ventricular tachycardia">Ventricular-tachycardia</Keyword>
+      <Keyword type="drug" source="amiodarone">Amiodarone</Keyword>
+      <Keyword type="drug" source="BNP">BNP</Keyword>
+      <Keyword type="drug" source="oxygen">Oxygen</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Safety, feasibility and effectiveness of first in-human administration of muscle-derived stem/progenitor cells modified with connexin-43 gene for treatment of advanced chronic heart failure.</Title>
+      <Citation volume="19" issue="1" citationDate="2017-01-01" journalDate="2017-01-01" pages="148-157" />
+      <Authors>
+        <Author>Gwizdala A</Author>
+        <Author>Rozwadowska N</Author>
+        <Author>Kolanowski TJ</Author>
+        <Author>Malcher A</Author>
+        <Author>Cieplucha A</Author>
+        <Author>Perek B</Author>
+        <Author>Seniuk W</Author>
+        <Author>Straburzynska-Migaj E</Author>
+        <Author>Oko-Sarnowska Z</Author>
+        <Author>Cholewinski W</Author>
+        <Author>Michalak M</Author>
+        <Author>Grajek S</Author>
+        <Author>Kurpisz M</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Poznan University of Medical Sciences, 1st Department of Cardiology, Poznan, Poland</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/ejhf.700</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>AIMS: To assess the safety and efficacy of transendocardial delivery of muscle-derived stem/progenitor cells with connexin-43 overexpression (Cx-43-MDS/PC) in advanced heart failure (HF). METHODS AND RESULTS: Thirteen subjects with advanced HF, New York Heart Association (NYHA) class II-III were enrolled and treated with targeted injection of Cx-43-MDS/PCs and then monitored for at least 6 months. Overexpression of Cx43 (Cx43+) was significantly higher in all but one subject (Cx43-). Injection of MDS/PCs was associated with significant improvement of exercise capacity: NYHA (3 +/- 0 vs. 1.8 +/- 0.7, P = 0.003), exercise duration (388.69 +/- 141.83 s vs. 462.08 +/- 176.69 s, P = 0.025), peak oxygen consumption (14.38 +/- 3.97 vs. 15.83 +/- 3.74 ml/kg.min, P = 0.022) and oxygen pulse (10.58 +/- 2.89 vs. 18.88 +/- 22.63 mLO2 /heart rate, P = 0.012). Levels of BNP, left ventricular (LV) ejection fraction and LV end-diastolic volumes tended to improve. There was a significant improvement of the mean unipolar voltage amplitudes measured for the injected segments and the entire left ventricle (9.62 +/- 2.64 vs. 11.62 +/- 3.50 mV, P = 0.014 and 8.83 +/- 2.80 vs. 10.22 +/- 3.41 mV, P = 0.041, respectively). No deaths were documented, Cx43+ (n = 12) subjects presented no significant ventricular arrhythmia; one Cx43- subject suffered from ventricular tachycardia (successfully treated with amiodarone). CONCLUSIONS: Injection of Cx-43-MDS/PCs in patients with severe HF led to significant improvement in exercise capacity and myocardial viability of the injected segments while inducing no significant ventricular arrhythmia. This may arise from improved electrical coupling of the injected cells and injured myocardium and thus better in-situ mechanical cooperation of both cell types. Therefore, further clinical studies with Cx43+ MDS/PCs are warranted.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1388-9842</Issn>
+      <Eissn>1879-0844</Eissn>
+      <Title>European journal of heart failure</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="drug" source="lead">Lead</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Guided left ventricular lead placement for cardiac resynchronization therapy: an opportunity for image integration.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Behar JM</Author>
+        <Author>Rajani R</Author>
+        <Author>Rinaldi CA</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Imaging Sciences and Biomedical Engineering, King's College London, UK</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/ejhf.716</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1470-2045</Issn>
+      <Eissn>1474-5488</Eissn>
+      <Title>The Lancet. Oncology</Title>
+    </Journal>
+    <Characteristics />
+    <Keywords>
+      <Keyword type="drug" source="Cannabis">Cannabis</Keyword>
+    </Keywords>
+    <Article language="eng">
+      <Title>Cannabis: high time for evidence-based policies.</Title>
+      <Citation volume="18" issue="1" citationDate="2017-01-01" journalDate="2017-01-01" pages="1" />
+      <Authors>
+        <Author>The Lancet Oncology</Author>
+      </Authors>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1016/S1470-2045(16)30642-8</Doi>
+      <PublicationTypes>
+        <PublicationType>Editorial</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Eissn>2210-7711</Eissn>
+      <Title>International journal of clinical pharmacy</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; A">Case Report</Characteristic>
+      <Characteristic source="patient; 1; 2; 21; 26; 31">Case Report</Characteristic>
+      <Characteristic source="A; male">Case Report</Characteristic>
+      <Characteristic source="an; male">Case Report</Characteristic>
+      <Characteristic source="A; female">Case Report</Characteristic>
+      <Characteristic source="an; female">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="warfarin">RDI</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="intervention">Intervention</Keyword>
+      <Keyword type="ctita" source="atrial fibrillation">ARR</Keyword>
+      <Keyword type="ctita" source="AF">ARR</Keyword>
+      <Keyword type="ctita" source="stroke">THR</Keyword>
+      <Keyword type="disease" source="atrial fibrillation">Atrial-fibrillation</Keyword>
+      <Keyword type="disease" source="stroke">Stroke</Keyword>
+      <Keyword type="drug" source="warfarin">Warfarin</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Optimizing the use of oral anticoagulant therapy for atrial fibrilation in primary care: a pharmacist-led intervention.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Virdee MS</Author>
+        <Author>Stewart D</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Midlands and Lancashire Commissioning Support Unit, Old Market House, Birkenhead, Wirral, CH41 5AL, UK</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s11096-016-0419-x</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Background Updated evidence-based guidelines for the management of atrial fibrillation (AF) necessitate patient review, particularly with respect to oral anticoagulants, to ensure maximum health gain around stroke prophylaxis. Objective To quantify the level of anticoagulation utilisation in patients with a CHA2DS2-VASc &gt;/=1/&gt;/=2 (male/female) according to evidence-based guidelines and to assess the impact of a pharmacist-led intervention to optimise therapy. Setting Fifteen general medical practices in Liverpool, North-West England with a practice population of 99,129. Method GRASP-AF software was employed to interrogate patient electronic medical records to identify and risk stratify AF patients (using CHA2DS2-VASc). A pharmacist then reviewed the medical records of those of patients not anticoagulated and with a CHA2DS2-VASc &gt;/=1/&gt;/=2 (male/female). Recommendations were discussed with a general practitioner (GP) and those patients in whom the need for anticoagulation was agreed were invited for a consultation with either the pharmacist or GP and therapy optimised where appropriate. The GPs were responsible for managing those patients referred for diagnosis confirmation or further specialist opinion. Main outcome measure Proportion of patients eligible/not eligible for anticoagulation; proportions in whom anticoagulants initiated, refused, antiplatelets discontinued. Results Five hundred and twenty-three patients (31% of patients identified with AF and a CHA2DS2-VASc &gt;/=1/&gt;/=2 (male/female)) were not receiving an anticoagulant (26 subsequently died or left the practice leaving 497). Three hundred and eighty-two (77%) pharmacist recommendations to a GP were agreed without modification. Following outcomes of diagnostic investigations and specialist referrals, 202 (41%) patients were candidates for anticoagulation, 251 (51%) were not eligible for anticoagulation, 103 (21%) were anticoagulated (56 warfarin, 47 DOAC). Conclusion A pharmacist-led intervention re-aligned oral anticoagulant therapy to the latest evidence based guidelines for stroke prophylaxis, whilst simultaneously correcting the over-utilisation of antiplatelet therapy.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0028-4793</Issn>
+      <Eissn>1533-4406</Eissn>
+      <Title>The New England journal of medicine</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="Economic">PEC</Characteristic>
+    </Characteristics>
+    <Keywords />
+    <Article language="eng" country="Unknown">
+      <Title>Economic Effects of Medicaid Expansion in Michigan.</Title>
+      <Citation citationDate="2017-01-04" journalDate="2017-01-04" />
+      <Authors>
+        <Author>Ayanian JZ</Author>
+        <Author>Ehrlich GM</Author>
+        <Author>Grimes DR</Author>
+        <Author>Levy H</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>From the Institute for Healthcare Policy and Innovation, the Department of Health Management and Policy, School of Public Health, and the Gerald R. Ford School of Public Policy (J.Z.A., H.L.), the Division of General Medicine, Medical School (J.Z.A.), the Department of Economics, College of Literature, Science, and the Arts (G.M.E.), the Institute for Research on Labor, Employment, and the Economy (D.R.G.), and the Institute for Social Research (H.L.) - all at the University of Michigan, Ann Arbor</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1056/NEJMp1613981</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>0031-6970</Issn>
+      <Eissn>1432-1041</Eissn>
+      <Title>European journal of clinical pharmacology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="randomized">Best evidence</Characteristic>
+      <Characteristic source="a; female">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="prescribing">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="PURPOSE">Purpose</Keyword>
+      <Keyword type="disease" source="fracture">Fracture</Keyword>
+      <Keyword type="disease" source="hip fracture">Hip-fracture</Keyword>
+      <Keyword type="pec" source="prescribing">prescribing</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Clinical relevance of the STOPP/START criteria in hip fracture patients.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Lonnbro J</Author>
+        <Author>Wallerstedt SM</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Internal Medicine, Sahlgrenska University Hospital, Gothenburg, Sweden</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1007/s00228-016-2188-9</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>PURPOSE: The aim of this study was to investigate the clinical relevance of potentially inappropriate medications (PIMs), identified by the STOPP criteria, and potential prescribing omissions (PPOs), identified by the START criteria, and to identify predictors for clinically relevant PIMs and PPOs. METHODS: The STOPP and START criteria were applied on the medication lists of 200 older hip fracture patients, consecutively recruited to a randomized controlled study in 2009. For each identified PIM and/or PPO, the clinical relevance was assessed at the individual level, using medical records from both hospital and primary care as well as data collected in the original study. RESULTS: A total of 555 PIMs/PPOs were identified in 170 (85%) patients (median age: 85 years, 67% female), 298 (54%) of which, in 141 (71%) patients, were assessed as clinically relevant. A greater proportion of PIMs than PPOs were clinically relevant: 71% (95% CI: 66%; 76%) vs. 32% (27%; 38%). A greater proportion of PPOs than PIMs could not be assessed with available information: 38% (32%; 44%) vs. 22% (17%; 27%). Number of drugs and multidose drug dispensing, but not age, sex, cognition, or nursing home residence, were associated with &gt;/=1 clinically relevant PIMs/PPOs. CONCLUSIONS: The present study illustrates that one in two PIMs/PPOs identified by the STOPP/START criteria is clearly clinically relevant, PIMs being clinically relevant to a greater extent than PPOs. Based on available information, the clinical relevance could not be determined in a non-negligible proportion of PIMs/PPOs. Number of drugs and multidose drug dispensing were associated with &gt;/=1 clinically relevant PIMs/PPOs.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1053-8569</Issn>
+      <Eissn>1099-1557</Eissn>
+      <Title>Pharmacoepidemiology and drug safety</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="Randomized-controlled">Best evidence</Characteristic>
+      <Characteristic source="a patient">Case Report</Characteristic>
+      <Characteristic source="patient; a; c">Case Report</Characteristic>
+      <Characteristic source="patient; 1; 2; 4; 5; 6; 9; 12">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="adults">Human</Characteristic>
+      <Characteristic source="Physicians">Human</Characteristic>
+      <Characteristic source="drug use">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="PURPOSE">Purpose</Keyword>
+      <Keyword type="company" source="ratio">Ratio</Keyword>
+      <Keyword type="ctita" source="pain">PAN</Keyword>
+      <Keyword type="ctita" source="migraine">PAN</Keyword>
+      <Keyword type="ctita" source="depression">AFF</Keyword>
+      <Keyword type="ctita" source="epilepsy">EPI</Keyword>
+      <Keyword type="ctita" source="migraine">SER</Keyword>
+      <Keyword type="disease" source="depression">Depression</Keyword>
+      <Keyword type="disease" source="epilepsy">Epilepsy</Keyword>
+      <Keyword type="disease" source="migraine">Migraine</Keyword>
+      <Keyword type="disease" source="neurological disorders">Neurological-disorders</Keyword>
+      <Keyword type="disease" source="neuropathic pain">Neuropathic-pain</Keyword>
+      <Keyword type="disease" source="pain">Pain</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Antiepileptic drugs and risk of suicide attempts: a case-control study exploring the impact of underlying medical conditions.</Title>
+      <Citation citationDate="2017-01-03" journalDate="2017-01-03" />
+      <Authors>
+        <Author>Grimaldi-Bensouda L</Author>
+        <Author>Nordon C</Author>
+        <Author>Rossignol M</Author>
+        <Author>Jardon V</Author>
+        <Author>Boss V</Author>
+        <Author>Warembourg F</Author>
+        <Author>Reynolds R</Author>
+        <Author>Kurz X</Author>
+        <Author>Rouillon F</Author>
+        <Author>Abenhaim L</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>LASER Research, Paris, France</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1002/pds.4160</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>PURPOSE: Randomized-controlled trials and claims databases suggest that antiepileptic drug (AED) use may increase the risk of suicide attempts (SA). The present case-control study explores the impact of underlying indications on this potential association. METHODS: Physicians collected the medical history; prior 12-month drug use was obtained from standardized telephone interviews with patients. The association between AED use and SA was explored using multivariate conditional logistic regression. The analyses were replicated after stratification on depression and neurological disorders (epilepsy, migraine, and chronic neuropathic pain). RESULTS: Between 2008 and 2012, 506 adults with an incident SA were recruited in suicide treatment centers from across France and socio-demographically matched to 2829 controls from primary care settings. The association between AED use and odds of SA was not significant overall (odds ratio [OR], 1.5; 95% confidence interval [CI], 0.9-2.4). No association was observed for patients with neurological disorders (OR, 1.1; 95%CI, 0.5-2.4) as opposed to patients with depression (OR, 1.6; 95%CI, 1.0-2.5), but unmeasured confounding was suspected. CONCLUSIONS: Our results suggest that the association observed between AED use and increased odds of non-fatal SA in patients with either a lifetime history of depression or no neurological disorder may be explained by the presence of an underlying psychiatric disorder. Accounting for underlying indications is crucial in drug safety studies, as these can cause a reported association (or lack thereof) to be misleading. This may require the prospective collection of medical data at a patient level. Copyright (c) 2017 John Wiley &amp; Sons, Ltd.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1470-2045</Issn>
+      <Eissn>1474-5488</Eissn>
+      <Title>The Lancet. Oncology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; a">Case Report</Characteristic>
+      <Characteristic source="costs">PEC</Characteristic>
+      <Characteristic source="quality-adjusted life-years,">PEC</Characteristic>
+      <Characteristic source="resource utilisation">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="cancer">CAN</Keyword>
+      <Keyword type="disease" source="cancer">Cancer</Keyword>
+      <Keyword type="pec" source="resource utilisation">resource use</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Evaluation of effectiveness of survivorship programmes: how to measure success?</Title>
+      <Citation volume="18" issue="1" citationDate="2017-01-01" journalDate="2017-01-01" pages="e51-e59" />
+      <Authors>
+        <Author>Halpern MT</Author>
+        <Author>Argenbright KE</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Department of Health Services Administration and Policy, Temple University College of Public Health, Philadelphia, PA, USA. Electronic address:</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1016/S1470-2045(16)30563-0</Doi>
+      <PublicationTypes>
+        <PublicationType>Review</PublicationType>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>Although the number of cancer survivors has increased substantially in the past two decades, the evidence base regarding the effectiveness of cancer survivorship programmes is inadequate. Survivorship programmes tend to evaluate their effectiveness by assessing changes in patient-reported outcomes, symptoms and health status, knowledge, and receipt of cancer surveillance in programme participants. However, more comprehensive and high-quality evaluations of survivorship programmes are needed, including assessments using a broader set of measures. These expanded evaluations can include assessments of programme structure; long-term outcomes, such as survival, quality-adjusted life-years, and functional status; receipt of social support, nutritional, rehabilitative, and fertility preservation services; programme value, including costs and avoidance of inappropriate resource utilisation; and ability of programmes to increase access to needed survivorship care services and health equity. In this Series paper, we provide examples of assessment measures for currently used survivorship programmes, discuss the rationale for and potential benefits of expanded types of evaluation measures, and identify how these measures correspond to several evaluation frameworks. We conclude that use of a common, expanded set of measures to facilitate broad comparisons across survivorship programmes and thorough and systematic evaluations will help to identify the optimal programmes for individual survivors, improve outcomes, and prove the value of survivorship care.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1470-2045</Issn>
+      <Eissn>1474-5488</Eissn>
+      <Title>The Lancet. Oncology</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="cost">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="ctita" source="cancer">CAN</Keyword>
+      <Keyword type="disease" source="cancer">Cancer</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>Biosimilar and generic cancer drugs unlikely to bend cost curve in the USA.</Title>
+      <Citation volume="18" issue="1" citationDate="2017-01-01" journalDate="2017-01-01" pages="22-23" />
+      <Authors>
+        <Author>Bennett CL</Author>
+        <Author>Sartor OA</Author>
+        <Author>Armitage JO</Author>
+        <Author>Kantarjian H</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>University of South Carolina and the Hollings Cancer Center of the Medical University of South Carolina, Columbia and Charleston, SC 29208, USA. Electronic address:</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1016/S1470-2045(16)30653-2</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>
+</AbstractText>
+    </Article>
+
+
+  </Document>
+  <Document type="article" isNew="true" url="Unknown">
+    <Journal>
+      <Issn>1600-6135</Issn>
+      <Eissn>1600-6143</Eissn>
+      <Title>American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons</Title>
+    </Journal>
+    <Characteristics>
+      <Characteristic source="patient; 1; 4">Case Report</Characteristic>
+      <Characteristic source="patients">Human</Characteristic>
+      <Characteristic source="costs; cost">PEC</Characteristic>
+      <Characteristic source="Economics.">PEC</Characteristic>
+      <Characteristic source="expenditure; expenditures.">PEC</Characteristic>
+    </Characteristics>
+    <Keywords>
+      <Keyword type="company" source="ratio">Ratio</Keyword>
+      <Keyword type="ctita" source="transplants; transplant; recipients">TRS</Keyword>
+      <Keyword type="ctita" source="transplants; transplant; patients; patient">TRS</Keyword>
+    </Keywords>
+    <Article language="eng" country="Unknown">
+      <Title>OPTN/SRTR 2015 Annual Data Report: Economics.</Title>
+      <Citation volume="17 " citationDate="2017-01-01" journalDate="2017-01-01" pages="425-502" supplementType="Suppl." supplementText="1" />
+      <Authors>
+        <Author>Schnitzler MA</Author>
+        <Author>Skeans MA</Author>
+        <Author>Axelrod DA</Author>
+        <Author>Lentine KL</Author>
+        <Author>Randall HB</Author>
+        <Author>Snyder JJ</Author>
+        <Author>Israni AK</Author>
+        <Author>Kasiske BL</Author>
+      </Authors>
+      <Affiliations>
+        <Affiliation>Scientific Registry of Transplant Recipients, Minneapolis Medical Research Foundation, Minneapolis, MN</Affiliation>
+      </Affiliations>
+      <SiteAddedDate siteSource="PubMedEntrezDate">2017-01-05</SiteAddedDate>
+      <Search searchName="Set1" searchDate="2017-01-06" />
+      <Doi>10.1111/ajt.14130</Doi>
+      <PublicationTypes>
+        <PublicationType>Journal Article</PublicationType>
+      </PublicationTypes>
+
+      <AbstractText>While the costs to Medicare of solid organ transplants are varied and considerable, the total Medicare expenditure of $4.4 billion for solid organ transplant recipients in 2014 remained less than 1% of all Medicare expenditures. For patients covered by Medicare, the ratio of pre- to posttransplant cost of care varied widely by organ and within some organ categories by patient characteristics. This chapter reports pretransplant costs for all solid organ candidates covered by Medicare to allow investigators to further explore the relative cost of transplant compared with alternative management.
+
+</AbstractText>
+    </Article>
+
+
+  </Document>
+</Package>
